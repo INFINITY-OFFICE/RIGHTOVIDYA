@@ -1,0 +1,1676 @@
+
+<!doctype html>
+
+<html data-ytrk-page="QUIZ INTRO" lang="en" class="quiz-desktop ui-chrome109 ui-chrome">
+
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#">
+
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta property="fb:pages" content="74442380906" />
+
+	<link rel="dns-prefetch" href="https://cdn.britannica.com/mendel-resources/3-82">
+	<link rel="preconnect" href="https://cdn.britannica.com/mendel-resources/3-82">
+
+    <meta name="description" content="Take this World Religions Quiz at Encyclopedia Britannica and test your knowledge of Buddhism, Judaism, and other religions that are followed around the world." />
+		<meta name="keywords" content="britannica, reference, online, encyclopedia, encyclopaedia, store, dictionary, thesaurus" />
+
+    <link rel="canonical" href="https://www.britannica.com/quiz/world-religions-quiz" />
+    <title>World Religions Quiz | Britannica</title>
+		<script type="text/javascript" data-type="Init Mendel">
+
+    window.$UI = {};
+
+    window.Constants = {"LICENSE_URL": "/bps/license","DEFAULT_TEST_VERSION": "A","AJAX_PREFIX_URL": "/ajax","TOPIC_BROWSE_URL": "/topic-browse","MARKETING_CONTENT": "/marketing-content","DEFAULT_STATE": "XX","QUIZ_URL": "/quiz","ENV_RUNTIME": "runtime","SPOTLIGHT_BROWSE_URL": "/stories/spotlight","USER_PROFILE_PARTNER_LOGO_URL": "/image/profile-partner","GALLERY_URL": "/gallery","CONTENT_TYPE_TEXT": "text/plain;charset=UTF-8","CONTENT_TYPE_HTML": "text/html;charset=UTF-8","ENV_LOCAL": "override","MEDIA_OVERLAY_URL": "/media-overlay","TOPIC_FACTS_DATA_URL": "/facts","ENV_DEV": "development","MEDIA_URL": "/media","TOPIC_MEDIA_PATH": "/images-videos","TOPIC_TOP_QUESTION_URL": "/question","PORTAL_FINANCE_URL_PREFIX": "/money","PODCASTS_URL": "/podcasts","STAND_ALONE_VIDEO_URL": "/video","USER_PROFILE_URL": "/user","DEBUG_URL": "/debug","ONE_GOOD_FACT_URL": "/one-good-fact","MORE_ON_THIS_DAY_URL": "/more-on-this-day","ERROR_404_URL": "/error404","SEARCH_PAGE_URL": "/search","TOPIC_CONTENT_AJAX_URL": "/topic-content/topic","ENV_BRANCH": "branch","ERROR_URL": "/error","MAIN_VERSION": "mainVersion","TOPIC_QUOTES_PATH": "/quotes","DEFAULT_S3_REGION": "US_EAST_1","INSTANT_ARTICLES_URL": "/instant-articles","TOPIC_PAGE_CONTENT_AJAX_URL": "/topic-content/page","TOPIC_COLLECTION_URL": "/summary","LOGINBOX_URL": "/auth/loginbox","ONE_GOOD_FACT_BROWSE_URL": "/one-good-fact/all-good-facts","INFINITE_SCROLL_PREFIX_URL": "/scroll","QUIZ_BROWSE_URL": "/quiz/browse","CC_USD": "USD","domain": "britannica.com","BIO_BROWSE_URL": "/biographies","SURVEY_URL": "/survey","CATEGORY_BROWSE_URL": "/browse","LIST_URL": "/list","STORY_BROWSE_URL": "/stories","IN_THIS_WEEK_BROWSE_URL": "/week-in-review","COUNTRY_US": "US","ALPHA_BROWSE_URL": "/sitemap","CONTENT_TYPE_JSON": "application/json","OPEN_MEDIA_OVERLAY_PARAMETER": "/media","DICTIONARY_URL": "/dictionary","COBRAND_IMAGE_URL": "/image/cobrand","SUBMISSION_URL": "/submission","EB_LOG_OUT": "/auth2/logout","ENV_PRODUCTION": "production","NEWSLETTER_SUBSCRIPTION_URL": "/newsletter-subscription","INSIGHTS_LANDING_PAGE_URL_2": "/factsmatter","INSIGHTS_LANDING_PAGE_URL_1": "/insights","MAINTENANCE_ERROR_URL": "https://maintenance.eb.com","IMARS_EDITOR_ID": "12365882","TOPIC_AJAX_URL": "/ajax/topic","PROFILE_EB_EDITOR_URL": "/editor","WEB_INF_RESOURCES_PATH": "WEB-INF/resources","WTFACT_BROWSE_URL": "/stories/wtfact","TOPIC_ADDITIONAL_INFO_PATH": "/additional-info","VIDEO_CHANNEL_URL": "/videos","GALLERY_BROWSE_URL": "/gallery/browse","CACHE_URL": "/cache","CC_INR": "INR","ARTICLE_PRINT_URL": "/print/article","FIRST_EDITION_URL": "/subscriber/firstedition","WW1_PORTAL_URL": "/discover/World-War-I","MENDEL_COOKIE": "__mendel","DEMYSTIFIED_BROWSE_URL": "/stories/demystified","COMPANION_BROWSE_URL": "/stories/companion","MEDIA_FOLDER": "/eb-media","SHOW_ALL_CONTRIBUTORS": "/additional-info#contributors","LIST_BROWSE_URL": "/list/browse","PROFILE_EXPERT_URL": "/contributor","ASSEMBLY_IMAGE_URL": "/image/assembly","BRITANNICA_EDITORS_ID": "4419","EXPLORE_BROWSE": "/explore","DAY_IN_HISTORY_URL": "/on-this-day","DEFAULT_CURRENCY": "USD","CONTENT_TYPE_XML": "text/xml;charset=UTF-8","ENV_CACHE_DISABLED": "mendelCache","STORY_URL": "/story","DEFAULT_COUNTRY": "US","NAVBAR_URL": "/ajax/navbar","EB_LOGIN_URL": "/auth/eb-login","NEW_ARTICLES_URL": "/new-articles",};
+    window.CDN = "https://cdn.britannica.com";
+    window.CAM_LOGIN_URL = "https://cam.britannica.com";
+    window.CAM_SIGN_UP_URL = "https://cam.britannica.com/registration"
+
+    window.Mendel = {
+     	"config" : {
+            "domain": "britannica.com",
+			"page": "Quiz",
+			"videoPlayerId": "UyMCoK2v",
+			"sharedUrl": "https://www.britannica.com/quiz/world-religions-quiz",
+	        "resourcesPrefixUrl": "https://cdn.britannica.com/mendel-resources/3-82/[url]?v=3.82.6",
+			"userInfo": { "type": "ANONYMOUS"
+			             ,"currency": "INR"
+			             ,"country": "IN"
+					     ,"state": "DL"
+			             ,"bcomId": "6977007961325045058"
+				         ,"hasAds": true
+					     ,"testVersion": "C"
+				         ,"privacyInfo": {"consentLocation":false,"gdpr":false,"ccpa":false,"needConsent":false}
+						 ,"consumerId": ""
+						 ,"instId": ""
+						 ,"consumerUserName": ""
+						 ,"instUserName": ""
+						 ,"cognito": null
+			},
+			"isLoggedInAsUser": false,
+			"analytics": {  "gaId": "UA-6636134-11" },
+			"isPhone": false,
+			"isDesktop": true,
+			"logoutUrl": "/auth2/logout",
+			"selfServiceUrl": "https://myaccount.britannica.com",
+			"cdnUrl": "https://cdn.britannica.com",
+	        "fetchOffset": 800,
+			
+			"mendelCookieName": "__mendel",
+			"mendelCookie": {"pagesViewed":1,"surveyShown":true,"topicInitialSequence":0},
+			
+
+			"autocompleteToSearchPage": false,
+            "isMendelAdsManager": false,"quizPageType": "questions"
+        ,"quizId": 4767
+        ,"quizUrl": "/quiz/world-religions-quiz"
+        ,"quizType": "TEXT_MULTIPLE_CHOICE"
+        ,"quizTitle": "World Religions Quiz"
+        ,"quizDescription": "Take this World Religions Quiz at Encyclopedia Britannica and test your knowledge of Buddhism, Judaism, and other religions that are followed around the world."
+        ,"quizThumbnail": "https://cdn.britannica.com/51/174451-131-D276EF31/Floats-parade-roll-Rex-Canal-Street-New.jpg"
+        
+        ,"nextQuiz": {"title":"Name That Historical Figure!","url":"/quiz/name-that-historical-figure","image":{"id":0,"url":"/37/216237-131-42085667/Stained-glass-Joan-of-Arc-St-Mary-of-the-Angels-Catholic-church-Wellington-New-Zealand.jpg","altText":"Stained glass of Joan of Arc in St. Mary of the Angels, Wellington, New Zealand. Roman Catholic church. (Saint Joan of Arc, St. Joan of Arc)","credit":"© Tupungato/Dreamstime.com","fullUrl":"https://cdn.britannica.com/37/216237-131-42085667/Stained-glass-Joan-of-Arc-St-Mary-of-the-Angels-Catholic-church-Wellington-New-Zealand.jpg"}}
+        ,"relatedQuizzes": [{"id":12746,"title":"American Civil Rights Movement Quiz","url":"/quiz/american-civil-rights-movement-quiz","description":"Test your knowledge of Americans’ tumultuous fight to end racial segregation and discrimination.","image":{"id":0,"url":"/13/114513-131-E18DA695/Martin-Luther-King-Jr-Malcolm-X-1964.jpg","altText":"Martin Luther King, Jr. (left of centre) and Malcolm X (right) waiting for a press conference, 1964.","credit":"Library of Congress, Washington, D.C. (digital file no. 3d01847u)","fullUrl":"https://cdn.britannica.com/13/114513-131-E18DA695/Martin-Luther-King-Jr-Malcolm-X-1964.jpg"},"type":"QUIZ","categories":[{"id":8000,"title":"Lifestyles & Social Issues","urlTitle":"Lifestyles-Social-Issues","description":"It's easy enough to agree that human beings all around the world have certain basic requirements that must be fulfilled in order to ensure their individual and collective well-being. History has shown us, however, that it's not so easy to form societies or communities that fulfill these requirements for all members. The fight for human and civil rights has persisted for hundreds of years and remains alive today, both within the borders of nations and on an international scale. It has led to large-scale social movements and reforms concerning issues such as suffrage, slavery, women's rights, racism, environmentalism, gay rights, and much more.","image":{"id":0,"url":"/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg","altText":"Lifestyles & Social Issues","fullUrl":"https://cdn.britannica.com/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg"}},{"id":9000,"title":"Politics, Law & Government","urlTitle":"Politics-Law-Government","description":"The world today is divided territorially into more than 190 countries, each of which possesses a national government that claims to exercise sovereignty and seeks to compel obedience to its will by its citizens. Governments can be classified in any number of ways. For example, they might be classified by the number of rulers, thus distinguishing government by one (as in a monarchy or a tyranny) from government by the few (in an aristocracy or oligarchy) and from government by the many (as in a democracy). Governments can also be classified by mode of succession; for example, ascension to governmental leadership may follow the rules of hereditary succession, or it may be determined through elections or by force. Governments also vary in terms of the laws and rules of conduct that each political entity follows.","image":{"id":0,"url":"/22/99622-050-E70BCD0A/Parthenon-Athens.jpg","altText":"Politics, Law & Government","fullUrl":"https://cdn.britannica.com/22/99622-050-E70BCD0A/Parthenon-Athens.jpg"}},{"id":6000,"title":"World History","urlTitle":"World-History","description":"Does history really repeat itself, or can we learn from the mistakes of those who came before us? History provides a chronological, statistical, and cultural record of the events, people, and movements that have made an impact on humankind and the world at large throughout the ages.","image":{"id":0,"url":"/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg","altText":"World History","fullUrl":"https://cdn.britannica.com/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg"}}],"recentlyPublished":true,"hashtags":["Britannica","Encyclopedia Britannica","Encyclopaedia Britannica","quiz","quizzes","Jim Crow","civil rights","Martin Luther King","Jr.","Malcolm X","Emmett Till","Watts Riots","Loving v. Virginia","Rosa Parks","Greensboro Four","George Wallace","Freedom Rides","Black Panther Party","Lyndon B. Johnson","Brown v. Board of Education","separate but equal"],"hashtagsString":"Britannica, Encyclopedia Britannica, Encyclopaedia Britannica, quiz, quizzes, Jim Crow, civil rights, Martin Luther King, Jr., Malcolm X, Emmett Till, Watts Riots, Loving v. Virginia, Rosa Parks, Greensboro Four, George Wallace, Freedom Rides, Black Panther Party, Lyndon B. Johnson, Brown v. Board of Education, separate but equal","displayDate":[2023,1,11],"contentXml":"<feature id=\"12746\">  <quiz level=\"4\" NumOfQuestions=\"15\" isGeneral=\"true\" isVocabulary=\"false\" isTightrope=\"false\" isPopular=\"false\"><timing timed=\"true\" seconds=\"30\"/>   <metaDescription>Take this Lifestyles &amp; Social Issues quiz at Encyclopaedia Britannica to test your knowledge of the American civil rights movement.</metaDescription><browserTitle>American Civil Rights Movement Quiz</browserTitle><questionList> <qMultipleChoice level=\"4\"> <question> <query>Jim Crow laws, which enforced racial segregation in the South from the end of Reconstruction (1877) until the early civil rights era (1950s), were named after…</query> </question>  <answer correct=\"true\">a character from a racist minstrel show</answer> <explanation>Developed about 1830, Jim Crow was among the first popularly known blackface characters. Appearing in minstrel shows, Jim Crow was a demeaning caricature of African Americans.</explanation>   <answer correct=\"false\">the inventor of the cotton gin</answer>   <answer correct=\"false\">the president of the Confederacy</answer>   <answer correct=\"false\">a wealthy plantation owner</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Rosa Parks’s arrest in Montgomery, Alabama, led to a crippling boycott of the city’s…</query> </question>  <answer correct=\"true\">buses</answer> <explanation>In 1955 Rosa Parks was arrested for refusing to give up her bus seat to a white passenger. The African American-led boycott of city buses lasted until the U.S. Supreme Court struck down segregated seating on buses in 1956.</explanation>   <answer correct=\"false\">restaurants</answer>   <answer correct=\"false\">supermarkets</answer>   <answer correct=\"false\">dance halls</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>The U.S. Supreme Court ruling in <i>Brown</i> v. <i>Board of Education</i> (1954) overturned which discriminatory policy?</query> </question>  <answer correct=\"true\">separate but equal</answer> <explanation>Prior to <i>Brown</i> v. <i>Board of Education</i>, states were allowed to racially segregate their schools as long as equal accommodations were given to whites and non-whites. However, many of the accommodations were far from equal. Though the U.S. Supreme Court overturned this policy, enforcing desegregation required action by the federal executive and legislative branches, which would take years to unfold.</explanation>   <answer correct=\"false\">prohibition of interracial marriage</answer>   <answer correct=\"false\">literacy tests for voting</answer>   <answer correct=\"false\">redlining</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>In 1963 which politician personally stood in a school doorway to prevent Black students from entering?</query> </question>  <answer correct=\"true\">George Wallace</answer> <explanation>Alabama Governor George Wallace made a show of trying to prevent Vivian Malone and James Hood from entering the gymnasium of the University of Alabama for enrollment. Faced with Malone’s and Hood’s National Guard escort, Wallace stepped aside. Malone would become the school’s first African American graduate.</explanation>   <answer correct=\"false\">Barry Goldwater</answer>   <answer correct=\"false\">Strom Thurmond</answer>   <answer correct=\"false\">Huey Long</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>On February 1, 1960, the Greensboro Four made history by taking which action?</query> </question>  <answer correct=\"true\">sitting at a “whites only” lunch counter</answer> <explanation>In the dining area of a Woolworth department store in Greensboro, North Carolina, the sitting section was reserved for whites. Black patrons were expected to stand. Four Black college freshmen sat at the counter and refused to leave. News of the sit-in inspired more to join the next day.</explanation>   <answer correct=\"false\">being sworn in as the first Black congressmen</answer>   <answer correct=\"false\">suing the Ku Klux Klan</answer>   <answer correct=\"false\">occupying a college administration office</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Which important function did the 1961 Freedom Rides serve?</query> </question>  <answer correct=\"true\">They challenged racially segregated bus facilities.</answer> <explanation>In 1946 the U.S. Supreme Court had deemed segregation aboard interstate buses illegal, and in 1960 that ruling was extended to bus station facilities, such as restrooms. In 1961 a group of seven African Americans and six whites shared a bus on a trip through the South to put the extended ruling to the test. They were beaten, and their bus was firebombed.</explanation>   <answer correct=\"false\">They took minority voters to the polls.</answer>   <answer correct=\"false\">They bailed low-level offenders out of jail.</answer>   <answer correct=\"false\">They carried protesters to Washington, D.C.</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Martin Luther King, Jr.’s “I Have a Dream” speech was delivered in which city?</query> </question>  <answer correct=\"true\">Washington, D.C.</answer> <explanation>On August 28, 1963, more than 200,000 demonstrators convened at the National Mall for the March on Washington for Jobs and Freedom, where Martin Luther King, Jr., delivered his historic speech. The “I have a dream” portion was not part of his prepared remarks but was added extemporaneously, borrowing from a speech he’d given two months earlier.</explanation>   <answer correct=\"false\">Montgomery, Alabama</answer>   <answer correct=\"false\">Birmingham, Alabama</answer>   <answer correct=\"false\">Selma, Alabama</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Rather than adhere to nonviolence, which leader famously pursued civil rights “by any means necessary”?</query> </question>  <answer correct=\"true\">Malcolm X</answer> <explanation>Malcolm X used the phrase “by any means necessary” during a 1964 speech at the founding of the Organization of Afro-American Unity. He did not encourage wanton violence but did urge his followers to defend themselves.</explanation>   <answer correct=\"false\">Martin Luther King, Jr.</answer>   <answer correct=\"false\">Jesse Jackson</answer>   <answer correct=\"false\">John Lewis</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>The FBI declared which group a communist organization and an enemy of the U.S. government?</query> </question>  <answer correct=\"true\">Black Panther Party</answer> <explanation>The Black Panther Party was founded to combat police brutality, but it also began more than 35 different community programs, such as one providing free breakfast for children. Such social services earned the group the ire of FBI director J. Edgar Hoover, a staunch anti-communist.</explanation>   <answer correct=\"false\">Southern Christian Leadership Conference</answer>   <answer correct=\"false\">NAACP</answer>   <answer correct=\"false\">ACLU</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>The U.S. Supreme Court case <i>Loving</i> v. <i>Virginia</i> ushered in which advancement in civil rights?</query> </question>  <answer correct=\"true\">interracial marriage</answer> <explanation>In 1959 Richard Loving, a white man, and Mildred Jeter, a Black and Native American woman, were convicted of having a mixed marriage and were told that they had to leave the state of Virginia. In 1967 the U.S. Supreme Court overturned the conviction, ending antimiscegenation laws in 16 states.</explanation>   <answer correct=\"false\">affirmative action</answer>   <answer correct=\"false\">same-sex marriage</answer>   <answer correct=\"false\">equal pay regardless of race</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Resulting in 34 deaths, more than 1,000 injuries, and more than $40 million in property damage, the 1965 Watts Riots occurred in which city?</query> </question>  <answer correct=\"true\">Los Angeles</answer> <explanation>When a young Black man was arrested by a white police officer on August 11, 1965, tensions in Watts and other predominantly African American neighbourhoods of South-Central Los Angeles exploded into six days of riots.</explanation>   <answer correct=\"false\">New York City</answer>   <answer correct=\"false\">Montgomery, Alabama</answer>   <answer correct=\"false\">New Orleans</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>A milestone for the American civil rights movement, the Civil Rights Act was signed into law by which U.S. president?</query> </question>  <answer correct=\"true\">Lyndon B. Johnson</answer> <explanation>John F. Kennedy had proposed the Civil Rights Act in 1963, but the act was stymied by Congress. His successor, Lyndon B. Johnson, was able to push through a stronger version of the bill, which officially banned segregation on the basis of race, religion, or national origin in many areas of society and eliminated discriminatory obstacles to voting, such as literacy tests.</explanation>   <answer correct=\"false\">John F. Kennedy</answer>   <answer correct=\"false\">Richard Nixon</answer>   <answer correct=\"false\">Dwight D. Eisenhower</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Martin Luther King, Jr., was assassinated in Memphis, Tennessee, while there to support which cause?</query> </question>  <answer correct=\"true\">a strike by sanitation workers</answer> <explanation>In 1968 Martin Luther King, Jr., who had organized a Poor People’s Campaign to promote economic justice, went to Memphis, Tennessee, to support 1,300 Black sanitation workers who were striking for better pay and safer conditions.</explanation>   <answer correct=\"false\">creation of a memorial for enslaved people</answer>   <answer correct=\"false\">the election campaign of the city’s first Black mayoral candidate</answer>   <answer correct=\"false\">a sit-in organized by college students</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>A 2022 federal act that defines lynching as a hate crime was named for which person?</query> </question>  <answer correct=\"true\">Emmett Till</answer> <explanation>In 1955, 14-year-old Emmett Till was lynched after allegedly speaking to a white woman in Mississippi. His assailants were found not guilty. Photos of his battered remains were published in newspapers and magazines, which made his murder a rallying point in the civil rights movement. In 2022 the Emmett Till Antilynching Act made lynching a federal hate crime.</explanation>   <answer correct=\"false\">Marcus Garvey</answer>   <answer correct=\"false\">Fred Shuttlesworth</answer>   <answer correct=\"false\">Stokely Carmichael</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Finish this Martin Luther King, Jr., quotation: “Out of the mountain of despair…”</query> </question>  <answer correct=\"true\">“a stone of hope”</answer> <explanation>Delivered during Martin Luther King, Jr.’s “I Have A Dream” speech, this line served as the inspiration for the Martin Luther King Jr. Memorial in Washington, D.C.</explanation>   <answer correct=\"false\">“a cave of solace”</answer>   <answer correct=\"false\">“a rich vein of justice”</answer>   <answer correct=\"false\">“a lingering shadow of hate”</answer>  </qMultipleChoice> </questionList>  </quiz> </feature>","urlTitle":"american-civil-rights-movement-quiz","typeDisplayName":"Quiz","mainCategory":{"id":8000,"title":"Lifestyles & Social Issues","urlTitle":"Lifestyles-Social-Issues","description":"It's easy enough to agree that human beings all around the world have certain basic requirements that must be fulfilled in order to ensure their individual and collective well-being. History has shown us, however, that it's not so easy to form societies or communities that fulfill these requirements for all members. The fight for human and civil rights has persisted for hundreds of years and remains alive today, both within the borders of nations and on an international scale. It has led to large-scale social movements and reforms concerning issues such as suffrage, slavery, women's rights, racism, environmentalism, gay rights, and much more.","image":{"id":0,"url":"/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg","altText":"Lifestyles & Social Issues","fullUrl":"https://cdn.britannica.com/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg"}}},{"id":11858,"title":"The Dog Breed Quiz","url":"/quiz/the-dog-breed-quiz","description":"Find out which breed can outrun a cheetah, which breed was created by monks, and much more.","image":{"id":0,"url":"/87/232787-131-33E4C22A/retriever-dog-breeds.jpg","altText":"Various retriever dog breeds sitting in a row. L-R: curly coated retriever, golden retriever, Labrador retriever, duck tolling retriever, flat coated retriever. hunting sporting dogs","credit":"© otsphoto/stock.adobe.com","fullUrl":"https://cdn.britannica.com/87/232787-131-33E4C22A/retriever-dog-breeds.jpg"},"type":"QUIZ","categories":[{"id":1000,"title":"Science","urlTitle":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}},null,null],"hashtags":["dog","dog breed","Doberman Pinscher","St. Bernard","Greyhound","labradoodle","Corgi","Shar-Pei","Dachshund","Pekingese","Lhasa Apso","Chihuahua","Bloodhound","Labrador Retriever","pets","puppy","puppies","canine","Encyclopedia Britannica","Encyclopaedia Britannica"],"hashtagsString":"dog, dog breed, Doberman Pinscher, St. Bernard, Greyhound, labradoodle, Corgi, Shar-Pei, Dachshund, Pekingese, Lhasa Apso, Chihuahua, Bloodhound, Labrador Retriever, pets, puppy, puppies, canine, Encyclopedia Britannica, Encyclopaedia Britannica","displayDate":[2022,11,1],"contentXml":"<feature id=\"11858\">   <quiz level=\"4\" NumOfQuestions=\"12\" isGeneral=\"true\" isVocabulary=\"false\" isTightrope=\"false\" isPopular=\"false\"><timing timed=\"true\" seconds=\"15\"/>   <metaDescription>Learn more about dog breeds in this Science quiz from Encyclopaedia Britannica. </metaDescription><browserTitle>The Dog Breed Quiz</browserTitle><questionList> <qMultipleChoice level=\"4\"> <question> <query>What dog was bred by monks in a hospice in the Swiss Alps?</query> </question>  <answer correct=\"true\">St. Bernard</answer> <explanation><link id=\"62430\" type=\"topic\" url=\"/biography/Saint-Bernard-de-Menthon\">Bernard of Menthon</link> (later canonized as a saint) created the hospice 8,000 feet (2,440 meters) above sea level to help travelers make it through an Alpine pass. <link id=\"516857\" type=\"topic\" url=\"/animal/Saint-Bernard-breed-of-dog\">St. Bernards</link> were bred to help find people stuck in snowdrifts, but they never wore casks of brandy around their necks.</explanation>   <answer correct=\"false\">German Shepherd dog</answer>   <answer correct=\"false\">Rottweiler</answer>   <answer correct=\"false\">Lhasa Apso</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Able to defeat cheetahs in a sustained race, which dog breed is the fastest?</query> </question>  <answer correct=\"true\">Greyhound</answer> <explanation><link id=\"108332\" type=\"topic\" url=\"/animal/cheetah-mammal\">Cheetahs</link> can sprint up to 70 miles (113 km) per hour for 30 seconds, but a <link id=\"245971\" type=\"topic\" url=\"/animal/greyhound-dog\">Greyhound</link> can maintain a speed of 35 miles (56 km) per hour for about 7 miles (11 km).</explanation>   <answer correct=\"false\">French Poodle</answer>   <answer correct=\"false\">Fox Terrier</answer>   <answer correct=\"false\">Irish Wolfhound</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Which crossbred dog was made to be a hypoallergenic guide dog for a blind woman?</query> </question>  <answer correct=\"true\">labradoodle</answer> <explanation>The labradoodle combines the working aspect of a <link id=\"327016\" type=\"topic\" url=\"/animal/Labrador-retriever\">Labrador Retriever</link> and the hypoallergenic coat of a <link id=\"469855\" type=\"topic\" url=\"/animal/poodle\">Poodle</link>. </explanation>   <answer correct=\"false\">chiweenie</answer>   <answer correct=\"false\">Jack Tzu</answer>   <answer correct=\"false\">puggle</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>With a long, low body perfect for underground tunnels, which dog was bred to attack badgers in their dens?</query> </question>  <answer correct=\"true\">Dachshund</answer> <explanation><i><link id=\"149402\" type=\"topic\" url=\"/animal/dachshund\">Dachshund</link></i> is German for “badger dog.” While these dogs were underground, their loud bark signaled their location to humans aboveground.</explanation>   <answer correct=\"false\">French Bulldog</answer>   <answer correct=\"false\">Jack Russell Terrier</answer>   <answer correct=\"false\">Pug</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Which dog breed’s name is Chinese for “sand skin”?</query> </question>  <answer correct=\"true\">Shar-Pei</answer> <explanation>Among other unusual qualities like a blue-black tongue and a bulbous nose, <link id=\"112779\" type=\"topic\" url=\"/animal/Chinese-shar-pei\">Shar-Peis</link> have a coarse coat of fur. </explanation>   <answer correct=\"false\">Dalmatian</answer>   <answer correct=\"false\">Havanese</answer>   <answer correct=\"false\">Shiba Inu</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>The tracking power of which dog breed is admissible evidence in a U.S. courtroom?</query> </question>  <answer correct=\"true\">Bloodhound</answer> <explanation><link id=\"69930\" type=\"topic\" url=\"/animal/bloodhound\">Bloodhound</link>s have a sense of smell at least a thousand times keener than that of humans. </explanation>   <answer correct=\"false\">Labrador Retriever </answer>   <answer correct=\"false\">German Shepherd dog</answer>   <answer correct=\"false\">pit bull</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>According to the American Kennel Club, which dog breed has been the most popular in America since 1991?</query> </question>  <answer correct=\"true\">Labrador Retriever</answer> <explanation><link id=\"327016\" type=\"topic\" url=\"/animal/Labrador-retriever\">Labs</link> are late bloomers: they weren’t even a top-10 breed until 1970, but they have dominated American dog houses for the last three decades.</explanation>   <answer correct=\"false\">Border Collie</answer>   <answer correct=\"false\">French Poodle</answer>   <answer correct=\"false\">Shih Tzu</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Queen Elizabeth II owned at least 30 individuals of which kind of dog?</query> </question>  <answer correct=\"true\">Corgi</answer> <explanation>The Queen’s love affair with <link id=\"639510\" type=\"topic\" url=\"/animal/Welsh-corgi\">Pembroke Welsh Corgis</link> began when she got her first one in 1933. She is thought to have owned as many as nine simultaneously.</explanation>   <answer correct=\"false\">German Shepherd dog</answer>   <answer correct=\"false\">Dalmatian</answer>   <answer correct=\"false\">Husky</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Chihuahuas get their name from what?</query> </question>  <answer correct=\"true\">A state in Mexico</answer> <explanation>Some of the earliest recognized specimens of the <link id=\"110965\" type=\"topic\" url=\"/animal/Chihuahua-dog\">Chihuahua</link> breed were found in the Mexican state of <link id=\"110960\" type=\"topic\" url=\"/place/Chihuahua-state-Mexico\">Chihuahua</link>.</explanation>   <answer correct=\"false\">Spanish word for “shiver”</answer>   <answer correct=\"false\">The sounds they make</answer>   <answer correct=\"false\">The person who first bred them</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\">   <question> <query>Which of these dog breeds is native to Tibet?</query> </question>  <answer correct=\"true\">Lhasa Apso</answer> <explanation><link id=\"338482\" type=\"topic\" url=\"/place/Lhasa-China\">Lhasa</link> is the name of Tibet’s sacred city, while <link id=\"338490\" type=\"topic\" url=\"/animal/Lhasa-apso\"><i>apso</i></link><i/> means “long-haired dog.”</explanation>   <answer correct=\"false\">Borzoi</answer>   <answer correct=\"false\">Bichon Frise</answer>   <answer correct=\"false\">Klee Kai</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>According to legend, the Buddha shrunk down a lion to create which dog breed?</query> </question>  <answer correct=\"true\">Pekingese</answer> <explanation>So the story goes: A lion fell in love with a marmoset monkey and desired to be shrunk down to its size. The resulting <link id=\"449019\" type=\"topic\" url=\"/animal/Pekingese\">Pekingese dogs</link>—named for China’s capital, Peking (now called <link id=\"448956\" type=\"topic\" url=\"/place/Beijing\">Beijing</link>)—became a favorite of the ruling class.</explanation>   <answer correct=\"false\">Akita</answer>   <answer correct=\"false\">Afghan Hound</answer>   <answer correct=\"false\">Tibetan Mastiff</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Doberman Pinschers were bred to protect someone in which profession?</query> </question>  <answer correct=\"true\">tax collector</answer> <explanation>Karl Friedrich Louis <link id=\"167254\" type=\"topic\" url=\"/animal/Doberman-pinscher\">Dobermann</link> was a tax collector and dogcatcher in 19th-century Germany who used the fruits of one labor to protect himself during the other.</explanation>   <answer correct=\"false\">dentist</answer>   <answer correct=\"false\">landlord</answer>   <answer correct=\"false\">executioner</answer>  </qMultipleChoice> </questionList>  </quiz> </feature>","urlTitle":"the-dog-breed-quiz","typeDisplayName":"Quiz","mainCategory":{"id":1000,"title":"Science","urlTitle":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}}},{"id":6074,"title":"Baking and Baked Goods Quiz","url":"/quiz/baking-and-baked-goods","description":"You may have a sweet tooth, but how much do you know about baking and baked goods? Test your knowledge with this quiz.","image":{"id":0,"url":"/79/143279-131-AD0E874F/Slices-lemon-pie-meringue.jpg","altText":"Slices of lemon pie topped with meringue.","credit":"© Jason Hartog/Shutterstock.com","fullUrl":"https://cdn.britannica.com/79/143279-131-AD0E874F/Slices-lemon-pie-meringue.jpg"},"type":"QUIZ","categories":[{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}},null,null],"hashtags":["Britannica","Encyclopedia Britannica","Encyclopaedia Britannica","baking","blind baking","baked goods","cookies","moon cakes","beans","pastries","pies","sweets","cinnamon sugar","bread","eggs","buckwheat","buttermilk"],"hashtagsString":"Britannica, Encyclopedia Britannica, Encyclopaedia Britannica, baking, blind baking, baked goods, cookies, moon cakes, beans, pastries, pies, sweets, cinnamon sugar, bread, eggs, buckwheat, buttermilk","displayDate":[2022,10,28],"contentXml":"<feature id=\"6074\">  <quiz level=\"2\" NumOfQuestions=\"8\" isGeneral=\"true\" isVocabulary=\"false\" isTightrope=\"false\" isPopular=\"false\"><timing timed=\"true\" seconds=\"30\"/>    <metaDescription>Take this Entertainment and Pop Culture quiz at Encyclopaedia Britannica to test your knowledge about baking and baked goods.</metaDescription><browserTitle>Baking and Baked Goods Quiz</browserTitle><questionList> <qMultipleChoice level=\"2\"> <question> <query>French for “pastry cream,” what type of custard is used to fill an éclair?</query> </question>  <answer correct=\"true\">crème pâtissière</answer> <explanation>Éclairs are traditionally filled with crème pâtissière, or pastry cream.</explanation>   <answer correct=\"false\">crème fouettée</answer>   <answer correct=\"false\">crème française</answer>   <answer correct=\"false\">crème brûlée</answer>  </qMultipleChoice>  <qMultipleChoice level=\"1\"> <question> <query>Cinnamon sugar is an integral part of which baked good?</query> </question>  <answer correct=\"true\">snickerdoodle</answer> <explanation>The snickerdoodle is a cookie rolled in a mixture of cinnamon and sugar.</explanation>   <answer correct=\"false\">biscotti</answer>   <answer correct=\"false\">stroopwafel</answer>   <answer correct=\"false\">baklava</answer>  </qMultipleChoice>  <qMultipleChoice level=\"1\"> <question> <query>What is the main ingredient in meringue, which makes it light and fluffy?</query> </question>  <answer correct=\"true\">egg whites</answer> <explanation>Meringue is made by whipping egg whites with sugar.</explanation>   <answer correct=\"false\">gelatin</answer>   <answer correct=\"false\">cream</answer>   <answer correct=\"false\">marshmallow</answer>  </qMultipleChoice>  <qMultipleChoice level=\"2\"> <question> <query>What measure is equivalent to 3 teaspoons in the U.S. and U.K. and 4 teaspoons in Australia?</query> </question>  <answer correct=\"true\">tablespoon</answer> <explanation>A teaspoon is roughly equivalent to 5 milliliters in all three countries; in the U.S. and the U.K., a tablespoon is 15 milliliters, but in Australia it is 20 milliliters.</explanation>   <answer correct=\"false\">cup</answer>   <answer correct=\"false\">quarter cup</answer>   <answer correct=\"false\">dram</answer>  </qMultipleChoice>   <qMultipleChoice level=\"3\"> <question> <query>From southern France and often shaped like an ear of wheat, fougasse is a type of what?</query> </question>  <answer correct=\"true\">bread</answer> <explanation>Fougasse is a type of bread associated with the Provence region of France. This kind of bread originated in ancient Rome and developed into fougasse in France and focaccia in Italy.</explanation>   <answer correct=\"false\">cookie</answer>   <answer correct=\"false\">kitchen utensil</answer>   <answer correct=\"false\">hat</answer>  </qMultipleChoice>  <qMultipleChoice level=\"2\"> <question> <query>Which of these grains does <i>not</i> contain gluten?</query> </question>  <answer correct=\"true\">buckwheat</answer> <explanation>Despite its name, buckwheat is not actually related to wheat. It contains no gluten.</explanation>   <answer correct=\"false\">wheat</answer>   <answer correct=\"false\">farro</answer>   <answer correct=\"false\">barley</answer>  </qMultipleChoice>  <qMultipleChoice level=\"3\"> <question> <query>Moon cakes, eaten during the Chinese Mid-Autumn Festival, often include what at their center to symbolize the full moon?</query> </question>  <answer correct=\"true\">an egg yolk</answer> <explanation>The most common filling for traditional moon cakes is lotus paste with a salted duck egg yolk in the center.</explanation>   <answer correct=\"false\">a peanut</answer>   <answer correct=\"false\">a coin</answer>   <answer correct=\"false\">a cherry</answer>  </qMultipleChoice> <qMultipleChoice level=\"4\"> <question> <query>Which of these liquids can be combined with baking soda to become a leavening agent?</query> </question>  <answer correct=\"true\">buttermilk</answer> <explanation>Chemically, baking soda is a base. For it to make the bubbles necessary for leavening, it needs to be paired with an acid, such as buttermilk. Egg whites are another base, and vegetable oil and water are neither.</explanation>   <answer correct=\"false\">vegetable oil</answer>   <answer correct=\"false\">egg whites</answer>   <answer correct=\"false\">water</answer>  </qMultipleChoice>  <qMultipleChoice level=\"2\"> <question> <query>Ceramic beads or dry beans are used as weights during what baking technique?</query> </question>  <answer correct=\"true\">blind baking</answer> <explanation><i>Blind baking</i> refers to baking a pie crust or other pastry without any filling. The crust is often filled and then baked again briefly. This is because some crusts take longer to bake than their fillings. Using weights in the crust helps it retain its shape.</explanation>   <answer correct=\"false\">laminating dough</answer>   <answer correct=\"false\">docking</answer>   <answer correct=\"false\">proofing</answer>  </qMultipleChoice>   <qMultipleChoice level=\"4\"> <question> <query>Because they are said to have a similar shape, choux pastry’s name comes from the French word for what vegetable?</query> </question>  <answer correct=\"true\">cabbage</answer> <explanation>Portions of choux pastry dough puff up when baked and resemble heads of cabbage. The term comes from the French <i>pâte à choux</i>, literally \"pastry in the form of cabbages.\"</explanation>   <answer correct=\"false\">asparagus</answer>   <answer correct=\"false\">squash</answer>   <answer correct=\"false\">spinach</answer>  </qMultipleChoice>  </questionList>  </quiz> </feature>","urlTitle":"baking-and-baked-goods","typeDisplayName":"Quiz","mainCategory":{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}}},{"id":12745,"title":"Guess the Bones and Muscles Quiz","url":"/quiz/guess-the-bones-and-muscles-quiz","description":"Bone up on your knowledge of the human body.","image":{"id":0,"url":"/90/237690-131-60E05817/anatomy-Sternum.jpg","altText":"3D illustration of sternum, ribs, skeleton, anatomy","credit":"© Cinefootage/stock.adobe.com","fullUrl":"https://cdn.britannica.com/90/237690-131-60E05817/anatomy-Sternum.jpg"},"type":"QUIZ","categories":[{"id":3000,"title":"Health & Medicine","urlTitle":"Health-Medicine","description":"The study of the human mind and body, how these function, and how they interact—not only with each other but also with their environment—has been of utmost importance in ensuring human well-being. Research on potential treatments and preventive medicine has expanded greatly with the development of modern medicine, and a network of disciplines, including such fields as genetics, psychology, and nutrition, aims to facilitate the betterment of our health.","image":{"id":0,"url":"/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg","altText":"Health & Medicine","fullUrl":"https://cdn.britannica.com/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg"}},null,null],"recentlyPublished":true,"hashtags":["Britannica","Encyclopedia Britannica","Encyclopaedia Britannica","quiz","quizzes","anatomy","skeleton","muscles","phalanges","Achilles tendon","sternum","deltoid","triceps","clavicle","pectorals","tibia","gluteus maximus","quadriceps","mandible","spine","lumbar vertebrae","coccyx","carpal bones","bones"],"hashtagsString":"Britannica, Encyclopedia Britannica, Encyclopaedia Britannica, quiz, quizzes, anatomy, skeleton, muscles, phalanges, Achilles tendon, sternum, deltoid, triceps, clavicle, pectorals, tibia, gluteus maximus, quadriceps, mandible, spine, lumbar vertebrae, coccyx, carpal bones, bones","displayDate":[2023,1,11],"contentXml":"<feature id=\"12745\">   <quiz level=\"4\" NumOfQuestions=\"15\" isGeneral=\"true\" isVocabulary=\"false\" isTightrope=\"false\" isPopular=\"false\"><timing timed=\"true\" seconds=\"15\"/>    <metaDescription>Take this Health &amp; Medicine image quiz at Encyclopaedia Britannica to test your knowledge of bones and muscles.</metaDescription><browserTitle>Guess the Bones and Muscles Quiz</browserTitle><questionList>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237689\" filename=\"/89/237689-131-1DFF1CBC/anatomy-Achilles-tendon.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"masseuse massaging athlete&amp;#39; s Achilles tendon after running\" width=\"900\" height=\"675\" asseturl=\"anatomy-Achilles-tendon\"><asmtitle/><caption/><credit>© endostock/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">Achilles tendon</answer> <explanation>Tendons are not muscles but connective tissue that attaches muscle to other body parts, usually bone. The Achilles tendon, which connects the calf muscle to the heel, is the thickest and most powerful tendon in the body.</explanation>   <answer correct=\"false\">trapezius</answer>     <answer correct=\"false\">ACL</answer>   <answer correct=\"false\">hamstring</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237690\" filename=\"/90/237690-131-60E05817/anatomy-Sternum.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of sternum, ribs, skeleton, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-Sternum\"><asmtitle/><caption/><credit>© Cinefootage/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">sternum</answer> <explanation><i>Sternum</i> comes from the Greek word for “chest.”</explanation>   <answer correct=\"false\">clavicle</answer>   <answer correct=\"false\">palatine</answer>   <answer correct=\"false\">scapula</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237691\" filename=\"/91/237691-131-2F9FE266/anatomy-Tricep.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"young woman working out in gym, triceps, fitness\" width=\"900\" height=\"675\" asseturl=\"anatomy-Tricep\"><asmtitle/><caption/><credit>© antondotsenko/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">triceps</answer> <explanation>The triceps has three points of origin: one on the scapula and two on the humerus, or upper arm bone.</explanation>   <answer correct=\"false\">trapezius</answer>   <answer correct=\"false\">biceps</answer>   <answer correct=\"false\">masseter</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237692\" filename=\"/92/237692-131-4AF38A82/anatomy-clavicle.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of clavicle, skeleton, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-clavicle\"><asmtitle/><caption/><credit>© yodiyim/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">clavicles</answer> <explanation>The wishbone in birds consists of two clavicles fused together.</explanation>   <answer correct=\"false\">sacra</answer>   <answer correct=\"false\">scapulas</answer>   <answer correct=\"false\">sternums</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237693\" filename=\"/93/237693-131-01A0FD9F/anatomy-pectorals.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of human anatomy, pectoral muscles\" width=\"900\" height=\"675\" asseturl=\"anatomy-pectorals\"><asmtitle/><caption/><credit>© magicmine/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">pectorals</answer> <explanation>In addition to helping control arm movements, the “pecs” also pull the rib cage out to make room for lung expansion during deep breathing.</explanation>   <answer correct=\"false\">latissimus dorsi</answer>   <answer correct=\"false\">iliopsoas</answer>   <answer correct=\"false\">adductors</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237694\" filename=\"/94/237694-131-D368648A/anatomy-tibia.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of tibia, skeleton, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-tibia\"><asmtitle/><caption/><credit>© SciePro/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">tibia</answer> <explanation>The tibia is commonly known as the shinbone.</explanation>   <answer correct=\"false\">patella</answer>   <answer correct=\"false\">femur</answer>   <answer correct=\"false\">fibula</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237695\" filename=\"/95/237695-131-6166403C/anatomy-gluteus-maximus.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of gluteus maximus, muscles, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-gluteus-maximus\"><asmtitle/><caption/><credit>© CLIPAREA.com/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">glutes</answer> <explanation>The glute muscles, which make up the human buttocks, include the gluteus maximus, gluteus medius, and gluteus minimus. The gluteus maximus is the topmost muscle in each of the human buttocks.</explanation>   <answer correct=\"false\">rotator cuffs</answer>   <answer correct=\"false\">plantar fascias</answer>   <answer correct=\"false\">trapezii</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237696\" filename=\"/96/237696-131-A6D8A939/anatomy-coccyx.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D rendered illustration of a painful coccyx, skeleton, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-coccyx\"><asmtitle/><caption/><credit>© SciePro/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">coccyx</answer> <explanation>Another word for tailbone, <i>coccyx</i> comes from the Greek word for “cuckoo,” for its resemblance to a cuckoo’s beak.</explanation>   <answer correct=\"false\">trapezium bone</answer>   <answer correct=\"false\">incus</answer>   <answer correct=\"false\">zygomatic bone</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237697\" filename=\"/97/237697-131-BCF8464E/anatomy-quadriceps.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of quadricep muscles, human anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-quadriceps\"><asmtitle/><caption/><credit>© viktorov.pro/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">quadriceps</answer> <explanation>The quadriceps is not a single muscle but instead is a group of muscles. Experts long believed that there were four muscles (<i>quad</i> is Latin for “four”), but new evidence suggests that there may be a fifth muscle in the group.</explanation>   <answer correct=\"false\">deltoids</answer>   <answer correct=\"false\">glutes</answer>   <answer correct=\"false\">obliques</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237698\" filename=\"/98/237698-131-97B6A25E/anatomy-carpals.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of the hand of a skeleton. Carpal bones.\" width=\"900\" height=\"675\" asseturl=\"anatomy-carpals\"><asmtitle/><caption/><credit>© jodieadams/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">carpal bones</answer> <explanation>The wrist is made up of eight carpal bones of various shapes (square, oval, and triangular), allowing it to be both strong and flexible.</explanation>   <answer correct=\"false\">ulna</answer>   <answer correct=\"false\">humerus</answer>   <answer correct=\"false\">radius</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237699\" filename=\"/99/237699-131-5A6C88B8/anatomy-obliques.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3D illustration of oblique muscles, human anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-obliques\"><asmtitle/><caption/><credit>© CLIPAREA.com/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">obliques</answer> <explanation>Oblique muscles help rotate the body’s trunk and spine, as well as compress the abdominal cavity when needed (such as during coughing, sneezing, urination, or childbirth).</explanation>   <answer correct=\"false\">quadriceps</answer>   <answer correct=\"false\">deltoids</answer>   <answer correct=\"false\">rhomboids</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237700\" filename=\"/00/237700-131-EFAE8196/anatomy-deltoids.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3d illustration of human body, muscle deltoid, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-deltoids\"><asmtitle/><caption/><credit>© PIC4U/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">deltoids</answer> <explanation>The triangular-shaped deltoid muscle is named for the fourth letter of the Greek alphabet, delta, which also has a triangular shape.</explanation>   <answer correct=\"false\">quadriceps</answer>   <answer correct=\"false\">obliques</answer>   <answer correct=\"false\">hamstrings</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237701\" filename=\"/01/237701-131-0A14A3B8/anatomy-lumbar-vertabrae.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3d illustration of human body, spine, lumbar vertabrae, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-lumbar-vertabrae\"><asmtitle/><caption/><credit>© SciePro/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">lumbar vertebrae</answer> <explanation>The five lumbar vertebrae are the largest in the spine and support most of the body’s weight.</explanation>   <answer correct=\"false\">cervical vertebrae</answer>   <answer correct=\"false\">thoracic vertebrae</answer>   <answer correct=\"false\">sacrum</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237702\" filename=\"/02/237702-131-566FA51D/anatomy-mandible.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3d illustration of mandible, jaw bone, human body, skeleton, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-mandible\"><asmtitle/><caption/><credit>© Cinefootage/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">mandible</answer> <explanation>Also known as the jawbone, the mandible is the largest and strongest bone of the human face.</explanation>   <answer correct=\"false\">occipital bone</answer>   <answer correct=\"false\">ilium</answer>   <answer correct=\"false\">malleus</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237703\" filename=\"/03/237703-131-33B0FF60/anatomy-phalanges-toes.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"3d illustration of phalanges, toes, human body, skeleton, anatomy\" width=\"900\" height=\"675\" asseturl=\"anatomy-phalanges-toes\"><asmtitle/><caption/><credit>© Kateryna_Kon/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">phalanges</answer> <explanation>Both finger and toe bones are phalanges. <i>Phalanges</i> is plural; a single finger or toe bone is a <i>phalanx</i>.</explanation>   <answer correct=\"false\">metacarpals</answer>   <answer correct=\"false\">ossicles</answer>   <answer correct=\"false\">sesamoids</answer>  </qAssetMultipleChoice>  </questionList>  </quiz> </feature>","urlTitle":"guess-the-bones-and-muscles-quiz","typeDisplayName":"Quiz","mainCategory":{"id":3000,"title":"Health & Medicine","urlTitle":"Health-Medicine","description":"The study of the human mind and body, how these function, and how they interact—not only with each other but also with their environment—has been of utmost importance in ensuring human well-being. Research on potential treatments and preventive medicine has expanded greatly with the development of modern medicine, and a network of disciplines, including such fields as genetics, psychology, and nutrition, aims to facilitate the betterment of our health.","image":{"id":0,"url":"/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg","altText":"Health & Medicine","fullUrl":"https://cdn.britannica.com/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg"}}},{"id":12420,"title":"Name That Magnified Object!","url":"/quiz/name-that-magnified-object","description":"Can you figure out what these common items are when they're extremely magnified?","image":{"id":0,"url":"/68/236468-131-772AE055/Human-eyelashes-scanning-electron-micrograph.jpg","altText":"Human eyelashes under magnifcation. Colored scanning electron micrograph (SEM) of human eyelash mites","credit":"© Steve Gschmeissner—Science Photo Library/Getty Images","fullUrl":"https://cdn.britannica.com/68/236468-131-772AE055/Human-eyelashes-scanning-electron-micrograph.jpg"},"type":"QUIZ","categories":[{"id":1000,"title":"Science","urlTitle":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}},{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}},null],"hashtags":["Britannica","Encyclopedia Britannica","Encyclopaedia Britannica","quiz","quizzes","salt","blood cell","floss","sandpaper","pollen","butterfly","dust mite","velcro","sandpaper","broccoli","ballpoint pen"],"hashtagsString":"Britannica, Encyclopedia Britannica, Encyclopaedia Britannica, quiz, quizzes, salt, blood cell, floss, sandpaper, pollen, butterfly, dust mite, velcro, sandpaper, broccoli, ballpoint pen, ","displayDate":[2022,10,14],"contentXml":"<feature id=\"12420\">   <quiz level=\"4\" NumOfQuestions=\"14\" isGeneral=\"true\" isVocabulary=\"false\" isTightrope=\"false\" isPopular=\"false\"><timing timed=\"true\" seconds=\"30\"/>    <metaDescription>Take this image quiz at Encyclopaedia Britannica to test your knowledge of magnified objects.</metaDescription><browserTitle>Name That Magnified Object Quiz</browserTitle><questionList>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236249\" filename=\"/49/236249-131-289E8135/Extreme-magnification-macro-photo-of-a-common-ballpoint-pen.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Extreme magnification macro photo of a common ballpoint pen\" width=\"900\" height=\"675\" asseturl=\"Extreme-magnification-macro-photo-of-a-common-ballpoint-pen\"><asmtitle/><caption/><credit>© Andrew Williams/Shutterstock.com</credit></assembly>  </question>  <answer correct=\"true\">ballpoint pen</answer> <explanation/>   <answer correct=\"false\">fish eye</answer>   <answer correct=\"false\">grasshopper antenna</answer>   <answer correct=\"false\">camera aperture</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236247\" filename=\"/47/236247-131-1C7B8BB0/Human-Red-blood-cells-Magnification-of-x3000.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Human Red blood cells. Magnification of x3000.\" width=\"900\" height=\"675\" asseturl=\"Human-Red-blood-cells-Magnification-of-x3000\"><asmtitle/><caption/><credit>© Micro Discovery—Corbis Documentary/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">blood cells</answer> <explanation/>   <answer correct=\"false\">amoebas</answer>   <answer correct=\"false\">wine</answer>   <answer correct=\"false\">oil drops</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236255\" filename=\"/55/236255-131-07513950/Salt-crystals-in-a-polarization-micrograph-taken-at-100x.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Salt crystals in a polarization micrograph taken at 100x. The white cubes are shown here in a black and white photo.\" width=\"900\" height=\"675\" asseturl=\"Salt-crystals-in-a-polarization-micrograph-taken-at-100x\"><asmtitle/><caption/><credit>© Holcy—iStock/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">salt</answer> <explanation/>   <answer correct=\"false\">dust</answer>   <answer correct=\"false\">dandruff</answer>   <answer correct=\"false\">snow</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236252\" filename=\"/52/236252-131-6FE0C2E2/Snake-skin-background-closeup-in-Costa-Rica.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Snake skin background, closeup in Costa Rica\" width=\"900\" height=\"675\" asseturl=\"Snake-skin-background-closeup-in-Costa-Rica\"><asmtitle/><caption/><credit>© piccaya—iStock/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">snakeskin</answer> <explanation/>   <answer correct=\"false\">quartz crystals</answer>   <answer correct=\"false\">silk lace</answer>   <answer correct=\"false\">tree bark</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236246\" filename=\"/46/236246-131-FEA89C68/Full-Frame-Shot-Of-Nylon-Fastening-Tape.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Full Frame Shot Of Nylon Fastening Tape\" width=\"900\" height=\"675\" asseturl=\"Full-Frame-Shot-Of-Nylon-Fastening-Tape\"><asmtitle/><caption/><credit>© Pablo Zotalis—EyeEm/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">Velcro</answer> <explanation/>   <answer correct=\"false\">cat's tongue</answer>   <answer correct=\"false\">coral reef</answer>   <answer correct=\"false\">bacteria</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236251\" filename=\"/51/236251-131-84347D28/High-magnification-close-up-image-of-P120-fine-sandpaper.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"High magnification close up image of P120 fine sandpaper\" width=\"900\" height=\"675\" asseturl=\"High-magnification-close-up-image-of-P120-fine-sandpaper\"><asmtitle/><caption/><credit>© J R Price/Shutterstock.com</credit></assembly>  </question>  <answer correct=\"true\">sandpaper</answer> <explanation/>   <answer correct=\"false\">phlegm</answer>   <answer correct=\"false\">microchip</answer>   <answer correct=\"false\">gold nugget</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236256\" filename=\"/56/236256-131-DBEBC57A/Micro-texture-of-fresh-strawberry-.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Micro texture of fresh strawberry\" width=\"900\" height=\"675\" asseturl=\"Micro-texture-of-fresh-strawberry-\"><asmtitle/><caption/><credit>© jonnysek—iStock/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">strawberry</answer> <explanation/>   <answer correct=\"false\">lobster</answer>   <answer correct=\"false\">ladybug</answer>   <answer correct=\"false\">heart tissue</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236468\" filename=\"/68/236468-131-772AE055/Human-eyelashes-scanning-electron-micrograph.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Human eyelashes under magnifcation. Colored scanning electron micrograph (SEM) of human eyelash mites\" width=\"900\" height=\"675\" asseturl=\"Human-eyelashes-scanning-electron-micrograph\"><asmtitle/><caption/><credit>© Steve Gschmeissner—Science Photo Library/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">eye lashes</answer> <explanation/>   <answer correct=\"false\">grass</answer>   <answer correct=\"false\">toothbrush</answer>   <answer correct=\"false\">shag carpet</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236254\" filename=\"/54/236254-131-A75B1CB9/Grooves-of-vinyl-record-album-SEM.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Grooves of vinyl record album SEM\" width=\"900\" height=\"675\" asseturl=\"Grooves-of-vinyl-record-album-SEM\"><asmtitle/><caption/><credit>© Gregory S. Paulson—Image Source/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">vinyl record</answer> <explanation/>   <answer correct=\"false\">car tire</answer>   <answer correct=\"false\">cake icing</answer>   <answer correct=\"false\">microchip</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236248\" filename=\"/48/236248-131-A0B93BDC/close-up-of-the-human-tongue-after-having-some-peanuts.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"An extreme close up of the human tongue after having some peanuts\" width=\"900\" height=\"675\" asseturl=\"close-up-of-the-human-tongue-after-having-some-peanuts\"><asmtitle/><caption/><credit>© Norman Zeb—Moment/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">human tongue</answer> <explanation/>   <answer correct=\"false\">volcanic vent</answer>   <answer correct=\"false\">sea anemone</answer>   <answer correct=\"false\">pig skin</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236257\" filename=\"/57/236257-131-B2FD9739/dental-floss-scanning-electron-microscope.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Colored scannining electron microscope image of dental floss. (SEM)\" width=\"900\" height=\"675\" asseturl=\"dental-floss-scanning-electron-microscope\"><asmtitle/><caption/><credit>© MTX-design/Shutterstock.com</credit></assembly>  </question>  <answer correct=\"true\">dental floss</answer> <explanation/>   <answer correct=\"false\">spaghetti</answer>   <answer correct=\"false\">violin bow</answer>   <answer correct=\"false\">tape worm</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236253\" filename=\"/53/236253-131-70E4B49C/Scanning-electron-image-of-ambrosia-pollen.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Scanning electron image of ambrosia pollen. Magnification 2000 times, by 4x5 inch.\" width=\"900\" height=\"675\" asseturl=\"Scanning-electron-image-of-ambrosia-pollen\"><asmtitle/><caption/><credit>© hooky13—iStock/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">pollen</answer> <explanation/>   <answer correct=\"false\">chalk</answer>   <answer correct=\"false\">sand</answer>   <answer correct=\"false\">coral</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236259\" filename=\"/59/236259-131-0BCC2719/Extreme-magnification-Butterfly-wings-Blue-morpho.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Extreme magnification - Butterfly wings Blue morpho (morpho peleides) wing, 100:1 magnification\" width=\"900\" height=\"675\" asseturl=\"Extreme-magnification-Butterfly-wings-Blue-morpho\"><asmtitle/><caption/><credit>© jonnysek—iStock/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">butterfly wings</answer> <explanation/>   <answer correct=\"false\">shark tooth</answer>   <answer correct=\"false\">porcupine quill</answer>   <answer correct=\"false\">flower petal</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236260\" filename=\"/60/236260-131-B7A28343/Dust-mites.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Dust mites\" width=\"900\" height=\"675\" asseturl=\"Dust-mites\"><asmtitle/><caption/><credit>© Science Photo Library - STEVE GSCHMEISSNER—Brand X Pictures/Getty Images</credit></assembly>  </question>  <answer correct=\"true\">dust mites</answer> <explanation/>   <answer correct=\"false\">tomato seeds</answer>   <answer correct=\"false\">chili powder</answer>   <answer correct=\"false\">baby crabs</answer>  </qAssetMultipleChoice>  </questionList>  </quiz> </feature>","urlTitle":"name-that-magnified-object","typeDisplayName":"Quiz","mainCategory":{"id":1000,"title":"Science","urlTitle":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}}},{"id":12695,"title":"Guess the Game Quiz","url":"/quiz/guess-the-game-quiz","description":"Roll the dice and go all in on this quiz about games.","image":{"id":0,"url":"/52/237452-131-1B4601D0/Backgammon-set-with-dice.jpg","altText":"Backgammon set with dice. game, board","credit":"© Vladyslav Bashutskyy/stock.adobe.com","fullUrl":"https://cdn.britannica.com/52/237452-131-1B4601D0/Backgammon-set-with-dice.jpg"},"type":"QUIZ","categories":[{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}},null,null],"hashtags":["Britannica","Encyclopedia Britannica","Encyclopaedia Britannica","quiz","quizzes","bocce","cribbage","double Dutch","go","backgammon","halma","craps","dominos","Mexican train","poker","pachisi","pinball machine","pachinko","pinochle","darts","Othello","senet "],"hashtagsString":"Britannica, Encyclopedia Britannica, Encyclopaedia Britannica, quiz, quizzes, bocce, cribbage, double Dutch, go, backgammon, halma, craps, dominos, Mexican train, poker, pachisi, pinball machine, pachinko, pinochle, darts, Othello, senet ","displayDate":[2022,12,21],"contentXml":"<feature id=\"12695\">   <quiz level=\"4\" NumOfQuestions=\"17\" isGeneral=\"true\" isVocabulary=\"false\" isTightrope=\"false\" isPopular=\"false\"><timing timed=\"true\" seconds=\"30\"/>    <metaDescription>Take this Entertainment &amp; Pop Culture image quiz at Encyclopaedia Britannica to test your knowledge of games.</metaDescription><browserTitle>Guess the Game Quiz</browserTitle><questionList>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236851\" filename=\"/51/236851-131-F0E470B2/Friends-enjoying-double-Dutch-against-white-wall.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Friends enjoying double Dutch against white wall. Two women, jumping, jump rope\" width=\"900\" height=\"675\" asseturl=\"Friends-enjoying-double-Dutch-against-white-wall\"><asmtitle/><caption/><credit>© Cavan Images—Cavan/Getty Images Plus</credit></assembly>  </question>  <answer correct=\"true\">double Dutch</answer> <explanation>New York City police officer David Walker helped double Dutch surge in popularity during the 1970s. Noticing a lack of intramural sports for girls, Walker put on demonstrations at schools and founded the National Double Dutch League.</explanation>   <answer correct=\"false\">hopscotch</answer>   <answer correct=\"false\">red rover</answer>   <answer correct=\"false\">red light, green light</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236852\" filename=\"/52/236852-131-F59E44D3/young-person-playing-Go-a-strategy-board-game.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A young person playing Go, a strategy board game. China, Chinese, black, white\" width=\"900\" height=\"675\" asseturl=\"young-person-playing-Go-a-strategy-board-game\"><asmtitle/><caption/><credit>© lunx/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">go</answer> <explanation>Go players take turns placing stones on a 19 x 19 grid, trying to encircle their opponent’s stones. Despite its simple game play, go is often considered more complex than chess because of the sheer volume of possible moves.</explanation>   <answer correct=\"false\">crokinole</answer>   <answer correct=\"false\">checkers</answer>   <answer correct=\"false\">canasta</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236853\" filename=\"/53/236853-131-04667BC8/two-men-playing-cribbage.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of two men playing cribbage. Card game, peg, box, board, table\" width=\"900\" height=\"675\" asseturl=\"two-men-playing-cribbage\"><asmtitle/><caption/><credit>© Lisa F. Young/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">cribbage</answer> <explanation>Cribbage players traditionally keep track of the score by using a pegboard, such as the one seen here; however, pen and paper work just as well.</explanation>   <answer correct=\"false\">bridge</answer>   <answer correct=\"false\">gin rummy</answer>   <answer correct=\"false\">Klondike</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236854\" filename=\"/54/236854-131-97949B21/Two-men-play-mancala-in-Cape-Verde.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Two men play mancala in Cape Verde. Africa, board game\" width=\"900\" height=\"675\" asseturl=\"Two-men-play-mancala-in-Cape-Verde\"><asmtitle/><caption/><credit>© James Bailey/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">mancala</answer> <explanation>Mancala is not just one but a family of games whose play involves picking up seeds, beans, or similar objects and placing them in pits across the board.</explanation>   <answer correct=\"false\">snakes and ladders</answer>   <answer correct=\"false\">mah-jongg</answer>   <answer correct=\"false\">perudo</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"237452\" filename=\"/52/237452-131-1B4601D0/Backgammon-set-with-dice.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Backgammon set with dice. game, board\" width=\"900\" height=\"675\" asseturl=\"Backgammon-set-with-dice\"><asmtitle/><caption/><credit>© Vladyslav Bashutskyy/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">backgammon</answer> <explanation>Ancient Romans played a game called <i>ludus duodecim scriptorum</i> (“twelve-lined game”), which is nearly identical to modern backgammon.</explanation>   <answer correct=\"false\">checkers</answer>   <answer correct=\"false\">reversi</answer>   <answer correct=\"false\">whist</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236856\" filename=\"/56/236856-131-00AACD72/Chinese-checkers-game-board.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a Chinese checkers game board. China, marbles\" width=\"900\" height=\"675\" asseturl=\"Chinese-checkers-game-board\"><asmtitle/><caption/><credit>© Jaquelina/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">Chinese checkers</answer> <explanation>Chinese checkers was introduced in the United States in the 1930s. Despite the name, it was derived from a Greek game named <i>halma</i> (“jump”).</explanation>   <answer correct=\"false\">tiddlywinks</answer>   <answer correct=\"false\">jacks</answer>   <answer correct=\"false\">cowboy pool</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236857\" filename=\"/57/236857-131-F3930009/red-dice-on-a-craps-table.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a pair of red dice on a craps table. Green felt, casino, gambling\" width=\"900\" height=\"675\" asseturl=\"red-dice-on-a-craps-table\"><asmtitle/><caption/><credit>© Victor Moussa/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">craps</answer> <explanation>On the first roll in a craps game, a 7 or 11 automatically wins and a 2, 3, or 12 loses (or “craps out”). Any other number becomes “the point,” and rolling continues until “the point” is rolled again (a win) or a 7 is rolled (a loss).</explanation>   <answer correct=\"false\">keno</answer>   <answer correct=\"false\">roulette</answer>   <answer correct=\"false\">faro</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question>  <assembly displaytype=\"thumb\" assetid=\"236858\" filename=\"/58/236858-131-2FB1EC0F/pieces-for-a-game-of-Mexican-Train-dominoes-on-a-table.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of pieces for a game of Mexican Train dominoes on a table.\" width=\"900\" height=\"675\" asseturl=\"pieces-for-a-game-of-Mexican-Train-dominoes-on-a-table\"><asmtitle/><caption/><credit>© Kelly/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">Mexican train</answer> <explanation>In Mexican train, players add dominos to their personal “train” leading out from the central hub. If they can’t, they add to the Mexican train available to all or to another player’s train (if they didn't add to their own train the previous turn).</explanation>   <answer correct=\"false\">Forty-two</answer>   <answer correct=\"false\">Chickenfoot</answer>   <answer correct=\"false\">Muggins</answer>  </qAssetMultipleChoice>  <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236859\" filename=\"/59/236859-131-D0FF8F4E/hand-holding-up-a-pair-of-playing-cards-game-of-Texas-Hold-Em-poker.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a hand holding up a pair of playing cards on a green felt table during a game of Texas Hold Em poker. Casino, gambling, chips, card game\" width=\"900\" height=\"675\" asseturl=\"hand-holding-up-a-pair-of-playing-cards-game-of-Texas-Hold-Em-poker\"><asmtitle/><caption/><credit>© solosergio/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">Texas hold ‘em</answer> <explanation>In Texas hold’em players combine their two face-down cards with five face-up cards available to all players. It’s been the main event of the World Series of Poker since 1971.</explanation>   <answer correct=\"false\">Omaha hi-lo</answer>   <answer correct=\"false\">pai gow poker</answer>   <answer correct=\"false\">draw poker</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236860\" filename=\"/60/236860-131-1E914221/parchisi-board-game.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a parchisi board game. Dice, parchis, parcheesi\" width=\"900\" height=\"675\" asseturl=\"parchisi-board-game\"><asmtitle/><caption/><credit>© rehtse_c/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">pachisi</answer> <explanation>Sometimes called the national game of India, early versions of pachisi used thrown cowry shells instead of dice to determine movement. Parcheesi is a trademarked game based on pachisi.</explanation>   <answer correct=\"false\">draughts</answer>   <answer correct=\"false\">four square</answer>   <answer correct=\"false\">liar’s dice</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236861\" filename=\"/61/236861-131-B7F04E41/man-playing-snooker-in-bar.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a man playing snooker in bar. Green felt, table, pool, billiards, balls\" width=\"900\" height=\"675\" asseturl=\"man-playing-snooker-in-bar\"><asmtitle/><caption/><credit>© lllonajalll/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">snooker</answer> <explanation>Snooker is a form of billiards using 21 balls (and a cue ball), 15 of which are red and must be sunk first. The remaining six are various colors and must be sunk in a specific order.</explanation>   <answer correct=\"false\">nine ball</answer>   <answer correct=\"false\">cutthroat</answer>   <answer correct=\"false\">eight ball</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236862\" filename=\"/62/236862-131-1DC9305D/woman-counts-points-in-a-pinochle-hand.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"An elderly woman counts points in a pinochle hand. Card game, playing, table\" width=\"900\" height=\"675\" asseturl=\"woman-counts-points-in-a-pinochle-hand\"><asmtitle/><caption/><credit>© jtyler—iStock/Getty Images Plus</credit></assembly>  </question>  <answer correct=\"true\">pinochle</answer> <explanation>A pinochle deck is 48 cards—two sets of the ace, king, queen, jack, 10, and 9 from all four suits. This makes a hand with two copies of the queen of hearts possible.</explanation>   <answer correct=\"false\">euchre</answer>   <answer correct=\"false\">spades</answer>   <answer correct=\"false\">hearts</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237453\" filename=\"/53/237453-131-D0818FC8/A-pair-of-Pachinko-Machines.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A pair of Pachinko Machines. Tokyo, Japan, game, gambling\" width=\"900\" height=\"675\" asseturl=\"A-pair-of-Pachinko-Machines\"><asmtitle/><caption/><credit>© Danflcreativo/Dreamstime.com</credit></assembly>  </question>  <answer correct=\"true\">pachinko</answer> <explanation>Pachinko is a mix between pinball and slot machines. While gambling is largely illegal in Japan, pachinko parlors often employ elaborate loopholes to pay winning players.</explanation>   <answer correct=\"false\">baccarat</answer>   <answer correct=\"false\">roshambo</answer>   <answer correct=\"false\">carrom</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237454\" filename=\"/54/237454-131-268952E9/piece-on-a-game-board-of-othello.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A child&amp;#39;s hand placing a piece on a game board of othello.\" width=\"900\" height=\"675\" asseturl=\"piece-on-a-game-board-of-othello\"><asmtitle/><caption/><credit>© Mochi mochi/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">Othello</answer> <explanation>Othello is named for the Shakespearean character—a Black general who fears he’s been betrayed by his white wife. In the game, players take turns placing dual-sided discs; when one color’s line of discs is outflanked, they are flipped to the opposing color.</explanation>   <answer correct=\"false\">Catan</answer>   <answer correct=\"false\">Agricola</answer>   <answer correct=\"false\">Dixit</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"237451\" filename=\"/51/237451-131-940F5899/Senior-people-playing-boules-in-a-park.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"Senior people playing boules in a park. bocce ball, game\" width=\"900\" height=\"675\" asseturl=\"Senior-people-playing-boules-in-a-park\"><asmtitle/><caption/><credit>© Jacob Lund/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">bocce</answer> <explanation>In the Italian lawn game of bocce, teams take turns rolling balls in an attempt to get closest to the pallino, or object ball.</explanation>   <answer correct=\"false\">kubb</answer>   <answer correct=\"false\">croquet</answer>   <answer correct=\"false\">curling</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236866\" filename=\"/66/236866-131-0DB179DE/dart-board-cabinet-hanging-on-a-brick-wall-with-doors-open.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a dart board cabinet hanging on a brick wall with doors open. Cricket, darts\" width=\"900\" height=\"675\" asseturl=\"dart-board-cabinet-hanging-on-a-brick-wall-with-doors-open\"><asmtitle/><caption/><credit>© Thomas Bullock/Dreamstime.com</credit></assembly>  </question>  <answer correct=\"true\">cricket</answer> <explanation>In the darts game cricket, players can “own” the numbers 20–15 and the bullseye by hitting that spot three times. The owner can continue hitting that number to score points, until an opponent “closes” the number by completing the same task.</explanation>   <answer correct=\"false\">skittles</answer>   <answer correct=\"false\">hockey</answer>   <answer correct=\"false\">acey-deucey</answer>  </qAssetMultipleChoice> <qAssetMultipleChoice level=\"4\"> <question> <assembly displaytype=\"thumb\" assetid=\"236867\" filename=\"/67/236867-131-E375A60E/hand-playing-a-game-of-senet.jpg\" assemblytypeid=\"1\" descriptionid=\"1\" alttext=\"A closeup of a hand playing a game of senet. Ancient Egypt, Rome, board game\" width=\"900\" height=\"675\" asseturl=\"hand-playing-a-game-of-senet\"><asmtitle/><caption/><credit>© Andrey Zhuravlev/stock.adobe.com</credit></assembly>  </question>  <answer correct=\"true\">senet</answer> <explanation>Senet dates back to ancient Egypt and was associated with the journey to the afterlife. King Tutankhamun was entombed with a senet board.</explanation>   <answer correct=\"false\">blitz chess</answer>     <answer correct=\"false\">steeplechase</answer>   <answer correct=\"false\">knucklebones</answer>  </qAssetMultipleChoice>  </questionList>  </quiz> </feature>","urlTitle":"guess-the-game-quiz","typeDisplayName":"Quiz","mainCategory":{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}}}]
+        ,"quiz": {"id":4767,"tightrope":false,"generalAudience":false,"popular":false,"vocab":false,"categories":[{"label":"Philosophy & Religion","slug":"Philosophy-Religion"}],"type":"TEXT_MULTIPLE_CHOICE","image":{"altText":"Crowds reach for beads as the Jester float in the traditional Rex parade rolls down Canal Street on Mardi Gras March 8, 2011, New Orleans, Louisiana. Fat Tuesday aka Shrove Tuesday final day of Carnival, day before Ash Wednesday, first day of Lent.","credit":"Carol M. Highsmith's America/Library of Congress, Washington, D.C. (LC-DIG-highsm-11700)","fullUrl":"https://cdn.britannica.com/51/174451-131-D276EF31/Floats-parade-roll-Rex-Canal-Street-New.jpg"},"title":"World Religions Quiz","timed":true,"seconds":10,"questions":[{"text":"Who is the Hindu god associated with rain?","correctAnswerIndex":0,"answers":["Indra","Orion","Osiris","Zoroaster"],"difficulty":1,"explanation":"Indra is the Hindu god associated with rain, fertility, and storms. In Hindu belief, he is the king of the gods."},{"text":"What holiday precedes the Roman Catholic period of Lent?","correctAnswerIndex":2,"answers":["All Saints’ Day","Easter","Mardi Gras","Christmas"],"difficulty":3,"explanation":"Mardi Gras, also called Carnival, precedes the 40-day-long period of Lent, which is marked by fasting and prayer. In French, Mardi Gras means \"fat Tuesday.\""},{"text":"Where is the holiest city in Islam located?","correctAnswerIndex":1,"answers":["Jordan","Saudi Arabia","Indonesia","Morocco"],"difficulty":1,"explanation":"Mecca is the holiest Muslim city. Muhammad received the first verse for the Qur’an while he was in Mecca, in what is now Saudi Arabia, in 610 CE."},{"text":"What is the last day of Christmas called?","correctAnswerIndex":3,"answers":["Nativity","Advent","Easter","Epiphany"],"difficulty":1,"explanation":"The Christian holiday of Epiphany is celebrated on January 6, the last of the twelve days of Christmas."},{"text":"In Jewish, Christian, and Muslim belief, who led the Hebrew slaves out of Egypt?","correctAnswerIndex":3,"answers":["Noah","Pharaoh","Cain","Moses"],"difficulty":1,"explanation":"A central figure in Judaism is Moses, who led the Hebrew slaves out of Egypt. Moses is also important to other religions because of his role in communicating God’s laws, known as the Ten Commandments."},{"text":"What holiday commemorates two Roman saints?","correctAnswerIndex":3,"answers":["St. Elmo’s Day","St. Charles’s Day","St. Vitus’s Day","St. Valentine’s Day"],"difficulty":3,"explanation":"In ancient Rome February 14 was set aside to honor two saints named Valentine, both of whom died for their Christian faith."},{"text":"Which of these is not a kind of Hinduism?","correctAnswerIndex":1,"answers":["Shaktism","Zen","Vaishnavism","Shaivism"],"difficulty":1,"explanation":"Zen is a kind of Buddhist belief. It is widely practiced in Japan."},{"text":"What is the name for a candle holder found in Jewish homes?","correctAnswerIndex":0,"answers":["menorah","minuet","meniscus","mynah"],"difficulty":1,"explanation":"A menorah is a candelabrum that holds seven or nine candles and is used in Jewish worship."},{"text":"What is the sacred text of Islam?","correctAnswerIndex":2,"answers":["the Avesta","the Bible","the Qur’an","the Analects"],"difficulty":1,"explanation":"The word Qur’an in Arabic means “recitation.” The Qur’an is the final authority in Islamic social, religious, and legal matters."},{"text":"What is the main sacred text of Zoroastrianism?","correctAnswerIndex":1,"answers":["the Rig-Veda","the Avesta","the Bible","the Qur’an"],"difficulty":3,"explanation":"The main scripture of Zoroastrianism is called the Avesta."}],"difficulty":3,"nextUpQuiz":{"title":"Name That Historical Figure!","url":"/quiz/name-that-historical-figure","image":{"id":0,"url":"/37/216237-131-42085667/Stained-glass-Joan-of-Arc-St-Mary-of-the-Angels-Catholic-church-Wellington-New-Zealand.jpg","altText":"Stained glass of Joan of Arc in St. Mary of the Angels, Wellington, New Zealand. Roman Catholic church. (Saint Joan of Arc, St. Joan of Arc)","credit":"© Tupungato/Dreamstime.com","fullUrl":"https://cdn.britannica.com/37/216237-131-42085667/Stained-glass-Joan-of-Arc-St-Mary-of-the-Angels-Catholic-church-Wellington-New-Zealand.jpg"}},"metadata":{"source":"EB","publishDate":1668468308181,"browserTitle":"World Religions Quiz","metaDescription":"Take this World Religions Quiz at Encyclopedia Britannica and test your knowledge of Buddhism, Judaism, and other religions that are followed around the world.","tags":["britannica","encyclopedia britannica","quiz","quizzes","japan","israel","zoroaster","catholic","judaism","hinduism","buddhism","jewish","religion"],"slug":"world-religions-quiz"}}
+        ,"quizFeatureFlags": {
+            "enableLeaderboards": true,
+        }
+		},
+        "GA": {"leg":"C","userType":"ANONYMOUS","pageType":"Quiz","gisted":false}
+    };
+
+	</script>
+
+<meta property="fb:app_id" content="1887621861548296"/>
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@britannica" />
+	<meta name="twitter:image" content="https://cdn.britannica.com/51/174451-131-D276EF31/Floats-parade-roll-Rex-Canal-Street-New.jpg" />
+	<meta name="twitter:description" content="Take this World Religions Quiz at Encyclopedia Britannica and test your knowledge of Buddhism, Judaism, and other religions that are followed around the world."/>
+
+	<meta property="og:type"  content="WEBSITE"/>
+	<meta property="og:title" content="World Religions Quiz"/>
+	<meta property="og:description" content="Take this World Religions Quiz at Encyclopedia Britannica and test your knowledge of Buddhism, Judaism, and other religions that are followed around the world."/>
+	<meta property="og:site_name" content="Encyclopedia Britannica" />
+	<meta property="og:url" content="https://www.britannica.com/quiz/world-religions-quiz"/>
+	<meta property="og:image" content="https://cdn.britannica.com/51/174451-131-D276EF31/Floats-parade-roll-Rex-Canal-Street-New.jpg" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<script type="text/javascript" data-type="init opengraph">
+	Mendel.openGraph = {"type":"WEBSITE","title":"World Religions Quiz","description":"Take this World Religions Quiz at Encyclopedia Britannica and test your knowledge of Buddhism, Judaism, and other religions that are followed around the world.","imageUrl":"https://cdn.britannica.com/51/174451-131-D276EF31/Floats-parade-roll-Rex-Canal-Street-New.jpg","imageType":"image/jpeg","pageUrl":"https://www.britannica.com/quiz/world-religions-quiz"}</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/" >
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="https://cdn.britannica.com/mendel-resources/3-82/dist/vendor-bundle.css?v=3.82.6" rel="stylesheet" />
+    <link href="https://cdn.britannica.com/mendel-resources/3-82/dist/mendel-css.css?v=3.82.6" rel="stylesheet" />
+	<link href="https://cdn.britannica.com/mendel-resources/3-82/dist/quiz-page.css?v=3.82.6" rel="stylesheet" />
+
+    <script type="text/javascript">
+        
+
+        if (self !== top) { top.location = self.location; }
+
+        
+
+        // if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
+    </script>
+
+    <script
+        src="https://www.googleoptimize.com/optimize.js?id=OPT-TD96PKG"
+        async
+    ></script>
+<script>
+	            dataLayer = [];
+            </script>
+		   <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		       '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		   })(window,document,'script','dataLayer','GTM-5W6NC8');
+		   </script>
+		</head>
+
+<body data-ads-manager="cafeMedia" data-leg="C" class="quiz-page bg-gray-50 user-ANONYMOUS user-ads  md-desktop   leg-c">
+
+    <script>
+  (function (w, d) {
+    w.adthrive = w.adthrive || {};
+    w.adthrive.cmd = w.adthrive.cmd || [];
+    w.adthrive.plugin = 'adthrive-ads-manual';
+    w.adthrive.host = 'ads.adthrive.com';
+
+    var s = d.createElement('script');
+    s.async = true;
+    s.referrerpolicy = 'no-referrer-when-downgrade';
+    s.src = 'https://' + w.adthrive.host + '/sites/61575e5c934c481d714b3ca9/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&cb=' + Math.floor(Math.random() * 100 + 1);
+    var n = d.getElementsByTagName('script')[0];
+    n.parentNode.insertBefore(s, n);
+  })(window, document);
+</script>
+<script>
+  window.adthrive.cmd.push(function () {
+    const cam_targeting_values = [
+      ...(document.body.classList || [])
+    ];
+    if (cam_targeting_values.length > 0) {
+      window.adthrive.setTargeting({key: 'at_custom_1', value: cam_targeting_values.map(x => 'eb_' + x.toLowerCase().replace(/\s/g, ''))});
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+<script  id="json-navbar-info"  type="application/json">
+{"extraLinks":[{"title":"Dictionary","url":"/dictionary"},{"title":"Quizzes","url":"/quiz/browse"},{"title":"Money","url":"/money"}],"featureLinks":[{"title":"On This Day in History","url":"/on-this-day","description":"What happened today in history?"},{"title":"Quizzes","url":"/quiz/browse","description":"Can you get to the top of the leaderboard?"},{"title":"Podcasts","url":"/podcasts","description":"Stay curious on the go."},{"title":"Dictionary","url":"/dictionary","description":"Clear and simple definitions from language experts."},{"title":"Biographies","url":"/biographies","description":"Explore extraordinary lives."},{"title":"Summaries","url":"/summary","description":"Summaries, quick-facts, and timelines on key topics."},{"title":"Top Questions","url":"/question","description":"Britannica’s Editors answer your top questions."},{"title":"Week In Review","url":"/week-in-review","description":"A weekly recap of key events and fun facts."},{"title":"Infographics","url":"https://www.britannica.com/study/infographics","description":"Explore the world through maps, charts, and graphs.","newTab":true},{"title":"Demystified","url":"/stories/demystified","description":"Insight into some of life's big mysteries."},{"title":"Lists","url":"/list/browse","description":"Find out what tops our Editors’ lists. "},{"title":"#WTFact","url":"/stories/wtfact","description":"Stories so weird you’ll exclaim: “What the Fact!”"},{"title":"Companions","url":"/stories/companion","description":"A more concise complement to our top articles."},{"title":"Image Galleries","url":"/gallery/browse","description":"Browse editorially curated collections."},{"title":"Spotlight","url":"/stories/spotlight","description":"Get more context behind trending news and events."},{"title":"The Forum","url":"/stories/the-forum","description":"Analysis, research, and ideas from leading experts."},{"title":"One Good Fact","url":"/one-good-fact","description":"Your daily source for fascinating facts."}],"featuredFeature":{"title":"What Is the Most Widely Practiced Religion in the World?","url":"/story/what-is-the-most-widely-practiced-religion-in-the-world","description":"Demystified / Philosophy & Religion","image":{"id":0,"url":"/89/216789-131-9AE01BAA/Candles-burning-church-table.jpg","altText":"Candles Burning On Table In Church","credit":"© Ghofuur Ferianto — EyeEm/Getty Images","fullUrl":"https://cdn.britannica.com/89/216789-131-9AE01BAA/Candles-burning-church-table.jpg"}},"categoryLinks":[{"id":10000,"title":"Entertainment & Pop Culture","urlTitle":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}},{"id":5000,"title":"Geography & Travel","urlTitle":"Geography-Travel","description":"Planet Earth contains some extraordinarily diverse environments, some of which are easily habitable and some not so much. In different areas of Earth, one might find sweltering deserts, dense tropical rainforests, or bone-chilling tundras. Each biome and habitat comes with its own selection of flora and fauna, and it may include physical features such as canyons, volcanoes, rivers, or caves. Human beings have built homes in many different environments, settling the area and organizing it into units such as cities, states, regions, and countries, each with its own points of interest. Shifting trends in human migration have resulted in a human geography that is profoundly different from that of centuries ago.","image":{"id":0,"url":"/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg","altText":"Geography & Travel","fullUrl":"https://cdn.britannica.com/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg"}},{"id":3000,"title":"Health & Medicine","urlTitle":"Health-Medicine","description":"The study of the human mind and body, how these function, and how they interact—not only with each other but also with their environment—has been of utmost importance in ensuring human well-being. Research on potential treatments and preventive medicine has expanded greatly with the development of modern medicine, and a network of disciplines, including such fields as genetics, psychology, and nutrition, aims to facilitate the betterment of our health.","image":{"id":0,"url":"/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg","altText":"Health & Medicine","fullUrl":"https://cdn.britannica.com/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg"}},{"id":8000,"title":"Lifestyles & Social Issues","urlTitle":"Lifestyles-Social-Issues","description":"It's easy enough to agree that human beings all around the world have certain basic requirements that must be fulfilled in order to ensure their individual and collective well-being. History has shown us, however, that it's not so easy to form societies or communities that fulfill these requirements for all members. The fight for human and civil rights has persisted for hundreds of years and remains alive today, both within the borders of nations and on an international scale. It has led to large-scale social movements and reforms concerning issues such as suffrage, slavery, women's rights, racism, environmentalism, gay rights, and much more.","image":{"id":0,"url":"/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg","altText":"Lifestyles & Social Issues","fullUrl":"https://cdn.britannica.com/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg"}},{"id":12000,"title":"Literature","urlTitle":"Literature","description":"With the development of language, the human imagination has found a way to create and communicate through the written word. A literary work can transport us into a fictional, fantastic new world, describe a fleeting feeling, or simply give us a picture of the past through novels, poems, tragedies, epic works, and other genres. Through literature, communication becomes an art, and it can bridge and bond people and cultures of different languages and backgrounds.","image":{"id":0,"url":"/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg","altText":"Literature","fullUrl":"https://cdn.britannica.com/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg"}},{"id":7000,"title":"Philosophy & Religion","urlTitle":"Philosophy-Religion","description":"Humans have long pondered not only how we came to be but also why we came to be. The earliest Greek philosophers focused their attention upon the origin and nature of the physical world; later philosophers have theorized about the nature of knowledge, truth, good and evil, love, friendship, and much more. Philosophy involves a methodical assessment of any and all aspects of human existence and experience. The realms of philosophy and religion have sometimes intersected in conducting such inquiries as these. As with philosophy, the study of religion underscores how humankind has long speculated about its origins. The possibility of a higher being (or beings) to which livings things owe their existence has long captived human thought. Many religions also offer their own views on the nature of good and evil, and they may prescribe guidelines and judgment on different kinds of human behavior.","image":{"id":0,"url":"/95/180595-050-EDF2CA3A.jpg","altText":"Philosophy & Religion","fullUrl":"https://cdn.britannica.com/95/180595-050-EDF2CA3A.jpg"}},{"id":9000,"title":"Politics, Law & Government","urlTitle":"Politics-Law-Government","description":"The world today is divided territorially into more than 190 countries, each of which possesses a national government that claims to exercise sovereignty and seeks to compel obedience to its will by its citizens. Governments can be classified in any number of ways. For example, they might be classified by the number of rulers, thus distinguishing government by one (as in a monarchy or a tyranny) from government by the few (in an aristocracy or oligarchy) and from government by the many (as in a democracy). Governments can also be classified by mode of succession; for example, ascension to governmental leadership may follow the rules of hereditary succession, or it may be determined through elections or by force. Governments also vary in terms of the laws and rules of conduct that each political entity follows.","image":{"id":0,"url":"/22/99622-050-E70BCD0A/Parthenon-Athens.jpg","altText":"Politics, Law & Government","fullUrl":"https://cdn.britannica.com/22/99622-050-E70BCD0A/Parthenon-Athens.jpg"}},{"id":1000,"title":"Science","urlTitle":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}},{"id":4000,"title":"Sports & Recreation","urlTitle":"Sports-Recreation","description":"Physical contests and recreational games have long played a part in human society. In both team and solo sports, the human body has been pushed to its limits in the name of improving athletic performance and in order to break record upon record. The ancient Olympic Games are an early example of the contests in which humans have engaged to showcase physical prowess. In modern times, sports and games have evolved into a lucrative and competitive industry, while other leisure activities, such as card and video games, can be competitive or just serve as a way to unwind or socialize.","image":{"id":0,"url":"/13/170713-131-8D6B0AF7.jpg","altText":"Sports & Recreation","fullUrl":"https://cdn.britannica.com/13/170713-131-8D6B0AF7.jpg"}},{"id":2000,"title":"Technology","urlTitle":"Technology","description":"Humankind has long striven to improve its living conditions through the development of tools, instruments, and transportation and communications systems, all with the goal of making our lives easier, more productive and—why not?—more fun, too. Thanks to human curiosity and technological research, many significant inventions have been made throughout history that in turn made a difference in our daily lives.","image":{"id":0,"url":"/84/203584-131-357FBE7D/speed-internet-technology-background.jpg","altText":"Technology","fullUrl":"https://cdn.britannica.com/84/203584-131-357FBE7D/speed-internet-technology-background.jpg"}},{"id":11000,"title":"Visual Arts","urlTitle":"Visual-Arts","description":"These are the arts that meet the eye and evoke an emotion through an expression of skill and imagination. They include the most ancient forms, such as painting and drawing, and the arts that were born thanks to the development of technology, like sculpture, printmaking, photography, and installation art. Though beauty is in the eye of the beholder, different eras in art history have had their own principles to define beauty, from the richly ornamented taste of the Baroque to the simple utilitarian style of the Prairie School.","image":{"id":0,"url":"/45/24345-050-78FAA104.jpg","altText":"Visual Arts","fullUrl":"https://cdn.britannica.com/45/24345-050-78FAA104.jpg"}},{"id":6000,"title":"World History","urlTitle":"World-History","description":"Does history really repeat itself, or can we learn from the mistakes of those who came before us? History provides a chronological, statistical, and cultural record of the events, people, and movements that have made an impact on humankind and the world at large throughout the ages.","image":{"id":0,"url":"/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg","altText":"World History","fullUrl":"https://cdn.britannica.com/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg"}}],"featuredTopic":{"title":"solar system","url":"https://www.britannica.com/science/solar-system","description":"Article / Science","image":{"id":146127,"url":"/93/95393-050-5329EE11/planets-distance-order-Sun.jpg","altText":"solar system","credit":"Encyclopædia Britannica, Inc.","width":1600,"height":668,"fullUrl":"https://cdn.britannica.com/93/95393-050-5329EE11/planets-distance-order-Sun.jpg"}},"videoChannelsLinks":[{"title":"Britannica Classics","url":"/videos/britannica-classics","description":"Check out these retro videos from Encyclopedia Britannica’s archives."},{"title":"#WTFact Videos","url":"/videos/wtfact","description":"In #WTFact Britannica shares some of the most bizarre facts we can find."},{"title":"This Time in History","url":"/videos/this-week-in-history","description":"In these videos, find out what happened this month (or any month!) in history."},{"title":"Demystified Videos","url":"/videos/demystified","description":"In Demystified, Britannica has all the answers to your burning questions."},{"title":"Britannica Explains","url":"/videos/explains","description":"In these videos, Britannica explains a variety of topics and answers frequently asked questions."}],"newLinks":[{"title":"Student Portal","url":"/study/","description":"Britannica is the ultimate student resource for key school subjects like history, government, literature, and more.","newTab":true},{"title":"COVID-19 Portal","url":"/explore/savingearth/covid-19/","description":"While this global health crisis continues to evolve, it can be useful to look to past pandemics to better understand how to respond today.","newTab":true},{"title":"100 Women","url":"/explore/100women/","description":"Britannica celebrates the centennial of the Nineteenth Amendment, highlighting suffragists and history-making politicians.","newTab":true},{"title":"Britannica Beyond","url":"https://beyond.britannica.com","description":"We’ve created a new place where questions are at the center of learning. Go ahead. Ask. We won’t mind.","newTab":true},{"title":"Saving Earth","url":"/explore/savingearth/","description":"Britannica Presents Earth’s To-Do List for the 21st Century. Learn about the major environmental problems facing our planet and what can be done about them!","newTab":true},{"title":"SpaceNext50","url":"/explore/space/","description":"Britannica presents SpaceNext50,  From the race to the Moon to space stewardship, we explore a wide range of subjects that feed our curiosity about space!","newTab":true}]}
+</script>
+
+<header id="header" class="bg-navy-dark shadow-lg border-bottom border-black">
+    <div class="grid gx-0 align-items-center">
+        <div class="col-auto order-1 order-sm-0 d-none d-sm-block">
+            <a href="/" class="mx-10 mx-sm-20 d-flex align-items-center">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" alt="Encyclopedia Britannica"   width="123"/>
+</a></div>
+        <div class="col grid">
+            <div class="col-65 col-md-40 col-lg-auto d-none d-sm-inline-block py-5 px-0">
+                <div class="global-nav-search-container">
+                    <form method="get" action="/search" id="global-nav-search" class="md-search-form ">
+    <div class="search-box position-relative col-100">
+        <label class="sr-only" for="global-nav-search-query">Search Britannica</label>
+        <input name="query" id="global-nav-search-query" placeholder="Search Britannica..." class="form-control form-control-lg font-16 search-query pl-20 pr-70 shadow-sm"  maxlength="200" autocomplete="off"  aria-label="Search Britannica" />
+        <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+            <em class="material-icons" data-icon="close"></em>
+        </button>
+        <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" type="submit" disabled>
+            <span class="sr-only">Click here to search</span>
+            <em class="material-icons" data-icon="search"></em>
+        </button>
+        </div>
+</form>
+</div>
+            </div>
+
+            <div class="col d-flex align-items-center">
+                <button class="js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 ml-10 px-0">
+                    <em class="material-icons inactive-icon" data-icon="menu"></em>
+	<em class="material-icons active-icon" data-icon="close"></em>
+	<span class="d-none d-sm-inline-block ml-5 p-0">Browse</span>
+                </button>
+
+                <button class="d-sm-none js-toggle js-toggle-search-flyout btn btn-link link-white btn-sm rounded-0">
+                    <em class="material-icons inactive-icon" data-icon="search"></em>
+	<em class="material-icons active-icon" data-icon="close"></em>
+	</button>
+
+                <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/dictionary">
+                        Dictionary</a>
+                <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/quiz/browse">
+                        Quizzes</a>
+                <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/money">
+                        Money</a>
+                </div>
+        </div>
+
+        <div class="col-35 d-sm-none text-center">
+            <a href="/" class="d-flex align-items-center justify-content-center">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" alt="Encyclopedia Britannica"   width="119"/>
+</a></div>
+        <div class="col-35 col-sm-auto text-right order-3 mr-lg-15 align-items-center d-flex justify-content-end">
+            <div class="d-none d-md-inline-block">
+                        <SPAN class="marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_DESKTOP2"><a href="https://subscription.britannica.com/subscribe?partnerCode=BP_GN_NAC_USD_C" class="subscribe-link btn btn-sm btn-orange-dark py-5 mr-10" target="_blank">
+  Subscribe
+</a></SPAN></div>
+                    <div class="d-inline-block d-md-none">
+                        <SPAN class="marketing-HEADER_SUBSCRIPTION_MOBILE marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_MOBILE"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=global-nav-mobile&utm_campaign=evergreen" class="subscribe-link btn btn-xs btn-orange-dark p-5" target="_blank" rel="noopener">
+   Subscribe
+</a></SPAN></div>
+                    <button class="js-toggle-user-dropdown js-toggle btn btn-sm btn-link link-white rounded-0 px-md-15 pl-10 pr-5">
+                        <span class="d-none d-md-inline-block mr-5">Login</span>
+                        <em class="material-icons d-inline-block d-md-none font-20" data-icon="account_circle"></em>
+                        <em class="material-icons inactive-icon d-inline-block font-18" data-icon="keyboard_arrow_down"></em>
+	<em class="material-icons active-icon d-inline-block font-18" data-icon="keyboard_arrow_up"></em>
+	</button>
+                </div>
+    </div>
+    <div id="global-nav-react">
+        <ul class="d-none">
+            <li><a href="/browse/Entertainment-Pop-Culture">Entertainment & Pop Culture</a></li>
+            <li><a href="/browse/Geography-Travel">Geography & Travel</a></li>
+            <li><a href="/browse/Health-Medicine">Health & Medicine</a></li>
+            <li><a href="/browse/Lifestyles-Social-Issues">Lifestyles & Social Issues</a></li>
+            <li><a href="/browse/Literature">Literature</a></li>
+            <li><a href="/browse/Philosophy-Religion">Philosophy & Religion</a></li>
+            <li><a href="/browse/Politics-Law-Government">Politics, Law & Government</a></li>
+            <li><a href="/browse/Science">Science</a></li>
+            <li><a href="/browse/Sports-Recreation">Sports & Recreation</a></li>
+            <li><a href="/browse/Technology">Technology</a></li>
+            <li><a href="/browse/Visual-Arts">Visual Arts</a></li>
+            <li><a href="/browse/World-History">World History</a></li>
+            </ul>
+        <ul class="d-none">
+            <li><a href="/on-this-day">On This Day in History</a></li>
+            <li><a href="/quiz/browse">Quizzes</a></li>
+            <li><a href="/podcasts">Podcasts</a></li>
+            <li><a href="/dictionary">Dictionary</a></li>
+            <li><a href="/biographies">Biographies</a></li>
+            <li><a href="/summary">Summaries</a></li>
+            <li><a href="/question">Top Questions</a></li>
+            <li><a href="/week-in-review">Week In Review</a></li>
+            <li><a href="https://www.britannica.com/study/infographics">Infographics</a></li>
+            <li><a href="/stories/demystified">Demystified</a></li>
+            <li><a href="/list/browse">Lists</a></li>
+            <li><a href="/stories/wtfact">#WTFact</a></li>
+            <li><a href="/stories/companion">Companions</a></li>
+            <li><a href="/gallery/browse">Image Galleries</a></li>
+            <li><a href="/stories/spotlight">Spotlight</a></li>
+            <li><a href="/stories/the-forum">The Forum</a></li>
+            <li><a href="/one-good-fact">One Good Fact</a></li>
+            </ul>
+        <ul class="d-none">
+            <li><a href="/videos/Entertainment-Pop-Culture">Entertainment & Pop Culture</a></li>
+            <li><a href="/videos/Geography-Travel">Geography & Travel</a></li>
+            <li><a href="/videos/Health-Medicine">Health & Medicine</a></li>
+            <li><a href="/videos/Lifestyles-Social-Issues">Lifestyles & Social Issues</a></li>
+            <li><a href="/videos/Literature">Literature</a></li>
+            <li><a href="/videos/Philosophy-Religion">Philosophy & Religion</a></li>
+            <li><a href="/videos/Politics-Law-Government">Politics, Law & Government</a></li>
+            <li><a href="/videos/Science">Science</a></li>
+            <li><a href="/videos/Sports-Recreation">Sports & Recreation</a></li>
+            <li><a href="/videos/Technology">Technology</a></li>
+            <li><a href="/videos/Visual-Arts">Visual Arts</a></li>
+            <li><a href="/videos/World-History">World History</a></li>
+            </ul>
+        <ul class="d-none">
+            <li><a href="/videos/britannica-classics">Britannica Classics<br/>Check out these retro videos from Encyclopedia Britannica’s archives.</a></li>
+            <li><a href="/videos/wtfact">#WTFact Videos<br/>In #WTFact Britannica shares some of the most bizarre facts we can find.</a></li>
+            <li><a href="/videos/this-week-in-history">This Time in History<br/>In these videos, find out what happened this month (or any month!) in history.</a></li>
+            <li><a href="/videos/demystified">Demystified Videos<br/>In Demystified, Britannica has all the answers to your burning questions.</a></li>
+            <li><a href="/videos/explains">Britannica Explains<br/>In these videos, Britannica explains a variety of topics and answers frequently asked questions.</a></li>
+            </ul>
+	    <ul class="d-none">
+		    <li><a href="/study/">Student Portal</a><br/>Britannica is the ultimate student resource for key school subjects like history, government, literature, and more.</li>
+		    <li><a href="/explore/savingearth/covid-19/">COVID-19 Portal</a><br/>While this global health crisis continues to evolve, it can be useful to look to past pandemics to better understand how to respond today.</li>
+		    <li><a href="/explore/100women/">100 Women</a><br/>Britannica celebrates the centennial of the Nineteenth Amendment, highlighting suffragists and history-making politicians.</li>
+		    <li><a href="https://beyond.britannica.com">Britannica Beyond</a><br/>We’ve created a new place where questions are at the center of learning. Go ahead. Ask. We won’t mind.</li>
+		    <li><a href="/explore/savingearth/">Saving Earth</a><br/>Britannica Presents Earth’s To-Do List for the 21st Century. Learn about the major environmental problems facing our planet and what can be done about them!</li>
+		    <li><a href="/explore/space/">SpaceNext50</a><br/>Britannica presents SpaceNext50,  From the race to the Moon to space stewardship, we explore a wide range of subjects that feed our curiosity about space!</li>
+		    </ul>
+    </div>
+</header>
+
+<main>
+
+	    <div class="md-page-wrapper">
+
+	        <div id="content" class="md-content">
+
+		        <div class="ui-hidden">
+            <h1>World Religions Quiz</h1>
+            <dl>
+                    <dt>Question: Who is the Hindu god associated with rain?</dt>
+                    <dd>Answer: Indra is the Hindu god associated with rain, fertility, and storms. In Hindu belief, he is the king of the gods.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: What holiday precedes the Roman Catholic period of Lent?</dt>
+                    <dd>Answer: Mardi Gras, also called Carnival, precedes the 40-day-long period of Lent, which is marked by fasting and prayer. In French, Mardi Gras means "fat Tuesday."</dd>
+                </dl>
+            <dl>
+                    <dt>Question: Where is the holiest city in Islam located?</dt>
+                    <dd>Answer: Mecca is the holiest Muslim city. Muhammad received the first verse for the Qur’an while he was in Mecca, in what is now Saudi Arabia, in 610 CE.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: What is the last day of Christmas called?</dt>
+                    <dd>Answer: The Christian holiday of Epiphany is celebrated on January 6, the last of the twelve days of Christmas.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: In Jewish, Christian, and Muslim belief, who led the Hebrew slaves out of Egypt?</dt>
+                    <dd>Answer: A central figure in Judaism is Moses, who led the Hebrew slaves out of Egypt. Moses is also important to other religions because of his role in communicating God’s laws, known as the Ten Commandments.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: What holiday commemorates two Roman saints?</dt>
+                    <dd>Answer: In ancient Rome February 14 was set aside to honor two saints named Valentine, both of whom died for their Christian faith.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: Which of these is not a kind of Hinduism?</dt>
+                    <dd>Answer: Zen is a kind of Buddhist belief. It is widely practiced in Japan.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: What is the name for a candle holder found in Jewish homes?</dt>
+                    <dd>Answer: A menorah is a candelabrum that holds seven or nine candles and is used in Jewish worship.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: What is the sacred text of Islam?</dt>
+                    <dd>Answer: The word Qur’an in Arabic means “recitation.” The Qur’an is the final authority in Islamic social, religious, and legal matters.</dd>
+                </dl>
+            <dl>
+                    <dt>Question: What is the main sacred text of Zoroastrianism?</dt>
+                    <dd>Answer: The main scripture of Zoroastrianism is called the Avesta.</dd>
+                </dl>
+            </div>
+	    <div class="container">
+            <div class="grid">
+
+                <div class="col pt-sm-20">
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		<script type="application/ld+json">
+		{
+			"@context" : "https://schema.org",
+			"@type" : "BreadcrumbList",
+			"itemListElement" :
+			[
+				
+			
+			{
+			"@type" : "ListItem",
+			"position" : 1,
+			"item" :
+			{
+			"@id" : "https://www.britannica.com/quiz/browse",
+			"name": "Quizzes"
+			}
+			}
+		
+			,
+			{
+			"@type" : "ListItem",
+			"position" : 2,
+			"item" :
+			{
+			"@id" : "https://www.britannica.com/quiz/browse/Philosophy-Religion",
+			"name": "Philosophy & Religion Quizzes"
+			}
+			}
+		
+			]
+		}
+		</script>
+
+	
+
+	<nav class="breadcrumb quiz-breadcrumb mt-10 mt-sm-0 mb-10 mx-auto">
+		<span class="breadcrumb-item ">
+			<a href="/" class="">Home</a>
+		</span>
+		
+			<span class="breadcrumb-item ">
+				
+					
+					
+						<a class="" href="/quiz/browse">Quizzes</a>
+					
+				
+			</span>
+		
+			<span class="breadcrumb-item ">
+				
+					
+					
+						<a class="" href="/quiz/browse/Philosophy-Religion">Philosophy & Religion Quizzes</a>
+					
+				
+			</span>
+		
+	</nav>
+
+
+<div class="md-quiz mx-n20 mx-sm-auto shadow-lg rounded" id="quiz-root"
+                         data-bc-category="Philosophy & Religion">
+                        <div class="md-quiz-skeleton" style="--aspect-ratio: 900/675"></div>
+                    </div>
+
+                        <div class="md-extra-quiz-content mx-auto mb-10">
+                        <div id="intro" class="mt-10">
+                            <a class="font-14 d-inline-flex align-items-center font-weight-bold mb-10"
+                                   href="https://cam.britannica.com">
+                                    <em class="material-icons mr-5" data-icon="star" style="font-size: inherit"></em>
+                                    Save your scores! Login before you play.
+                                </a>
+                            <div class="credit">Carol M. Highsmith's America/Library of Congress, Washington, D.C. (LC-DIG-highsm-11700)</div>
+                        </div>
+                        <div id="question" class="d-none mt-10">
+                            <div class="credit d-none"></div>
+                        </div>
+                        <div id="results" class="d-none mt-10">
+                            <div class="credit">Carol M. Highsmith's America/Library of Congress, Washington, D.C. (LC-DIG-highsm-11700)</div>
+                        </div>
+                        <div id="popular-quizzes" class="mt-20">
+                            <div class="container d-flex align-items-center col-100 justify-content-between p-0 mb-5 mt-10">
+                                <h2 class="mb-0">Popular Quizzes</h2>
+                                <a href="/quiz/browse"
+                                   class="btn btn-xs shadow btn-outline-blue btn-sm-outline-none">
+                                    Browse All Quizzes
+                                    <span class="material-icons ml-5" data-icon="trending_flat"></span>
+                                </a>
+                            </div>
+                            <div class="grid">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-md-33 col-sm-50 col-100 ">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<a class="card-media" href="/quiz/american-civil-rights-movement-quiz" style="--aspect-ratio: 16/9">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/13/114513-131-E18DA695/Martin-Luther-King-Jr-Malcolm-X-1964.jpg?w=400&h=225&c=crop" alt="Martin Luther King, Jr. (left of centre) and Malcolm X (right) waiting for a press conference, 1964." class="col-100"   />
+    
+
+
+				</a>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/american-civil-rights-movement-quiz" class="font-weight-bold font-16 lh-sm">American Civil Rights Movement Quiz</a>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-md-33 col-sm-50 col-100 ">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<a class="card-media" href="/quiz/the-dog-breed-quiz" style="--aspect-ratio: 16/9">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/87/232787-131-33E4C22A/retriever-dog-breeds.jpg?w=400&h=225&c=crop" alt="Various retriever dog breeds sitting in a row. L-R: curly coated retriever, golden retriever, Labrador retriever, duck tolling retriever, flat coated retriever. hunting sporting dogs" class="col-100"   />
+    
+
+
+				</a>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/the-dog-breed-quiz" class="font-weight-bold font-16 lh-sm">The Dog Breed Quiz</a>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-md-33 col-sm-50 col-100 ">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<a class="card-media" href="/quiz/baking-and-baked-goods" style="--aspect-ratio: 16/9">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/79/143279-131-AD0E874F/Slices-lemon-pie-meringue.jpg?w=400&h=225&c=crop" alt="Slices of lemon pie topped with meringue." class="col-100"   />
+    
+
+
+				</a>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/baking-and-baked-goods" class="font-weight-bold font-16 lh-sm">Baking and Baked Goods Quiz</a>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-md-33 col-sm-50 col-100 ">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<a class="card-media" href="/quiz/guess-the-bones-and-muscles-quiz" style="--aspect-ratio: 16/9">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/90/237690-131-60E05817/anatomy-Sternum.jpg?w=400&h=225&c=crop" alt="3D illustration of sternum, ribs, skeleton, anatomy" class="col-100"   />
+    
+
+
+				</a>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/guess-the-bones-and-muscles-quiz" class="font-weight-bold font-16 lh-sm">Guess the Bones and Muscles Quiz</a>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-md-33 col-sm-50 col-100 ">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<a class="card-media" href="/quiz/name-that-magnified-object" style="--aspect-ratio: 16/9">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/68/236468-131-772AE055/Human-eyelashes-scanning-electron-micrograph.jpg?w=400&h=225&c=crop" alt="Human eyelashes under magnifcation. Colored scanning electron micrograph (SEM) of human eyelash mites" class="col-100"   />
+    
+
+
+				</a>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/name-that-magnified-object" class="font-weight-bold font-16 lh-sm">Name That Magnified Object!</a>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-md-33 col-sm-50 col-100 ">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<a class="card-media" href="/quiz/guess-the-game-quiz" style="--aspect-ratio: 16/9">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/52/237452-131-1B4601D0/Backgammon-set-with-dice.jpg?w=400&h=225&c=crop" alt="Backgammon set with dice. game, board" class="col-100"   />
+    
+
+
+				</a>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/guess-the-game-quiz" class="font-weight-bold font-16 lh-sm">Guess the Game Quiz</a>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+</div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <aside class="col-md-da-320 col-100 mt-30"></aside>
+                </div>
+        </div></div>
+	    </div>
+	</main>
+
+    <div id="md-footer"></div> <footer class="md-footer footer-wrapper hide-on-edit">
+
+    <div class="footer-bck">
+        <DIV class="marketing-FOOTER_NEWSLETTER marketing-content" data-marketing-id="FOOTER_NEWSLETTER"><div class="md-footer-newsletter-form pt-10 mb-30 mx-15 mx-sm-120">
+   <div class="font-18">
+      <strong>History at your fingertips &ndash;</strong>
+      Sign up here to see what happened On This Day, every day in your inbox!
+   </div>
+   <div class="p-30">
+      <div class="newsletter-form-container">
+
+    <form class="newsletter-form" method="post" action="/newsletter-subscription/EB_ON_THIS_DAY">
+
+        <div class="form-group grid d-flex justify-content-center">
+            <div class="col-sm-50 col-100">
+                <label class="sr-only" for="enter-your-email">Enter your email</label>
+                <input id="enter-your-email" type="email" name="email" class="form-control font-18 p-10" placeholder="Enter your email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+            </div>
+            <div class="col-sm-auto col-100 mt-5 mt-sm-0">
+                <button type="submit" class="btn btn-outline-white" style="width: 100%; height:100%;">Subscribe</button>
+            </div>
+        </div>
+        <div class="text-white pt-30 text-opacity">
+            By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.<br>
+            Click here to view our <a class="link-white text-decoration-underline" href="https://corporate.britannica.com/privacy-policy" target="_blank" rel="noopener nofollow">Privacy Notice</a>. Easy unsubscribe links are provided in every email.
+        </div>
+
+        <input type="hidden" name="source" value="Footer" /><input type="hidden" name="campaign" value="Mendel" /><input type="hidden" name="medium" value="Box" /></form>
+
+    <div class="md-subscribed hidden text-white">
+       <div class="my-10">Thank you for subscribing!</div>
+       <div>Be on the lookout for your Britannica newsletter to get trusted stories delivered right to your inbox.</div>
+    </div>
+
+</div>
+   </div>
+</div></DIV>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+<div class="md-social-toolbar-circle d-flex justify-content-center colored"
+     data-value="connect"
+     
+     
+>
+    
+        <div class="share-label text-uppercase hidden-xs">Stay Connected</div>
+    
+    
+        <a class="social-icon facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank" rel="noopener"><span>Facebook</span></a>
+    
+    
+        <a class="social-icon twitter justify-content-center d-flex align-items-center align-self-center" data-provider="twitter" href="https://twitter.com/britannica" target="_blank" rel="noopener"><span>Twitter</span></a>
+    
+    
+        <a class="social-icon youtube justify-content-center d-flex align-items-center align-self-center" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank" rel="noopener"><span>YouTube</span></a>
+    
+    
+        <a class="social-icon instagram justify-content-center d-flex align-items-center align-self-center" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank" rel="noopener"><span>Instagram</span></a>
+    
+    
+        <a class="social-icon pinterest justify-content-center d-flex align-items-center align-self-center" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank" rel="noopener">
+            <svg height="30" width="30" viewBox="0 0 24 24" aria-hidden="true" aria-label="" role="img"><path d="M0 12c0 5.123 3.211 9.497 7.73 11.218-.11-.937-.227-2.482.025-3.566.217-.932 1.401-5.938 1.401-5.938s-.357-.715-.357-1.774c0-1.66.962-2.9 2.161-2.9 1.02 0 1.512.765 1.512 1.682 0 1.025-.653 2.557-.99 3.978-.281 1.189.597 2.159 1.769 2.159 2.123 0 3.756-2.239 3.756-5.471 0-2.861-2.056-4.86-4.991-4.86-3.398 0-5.393 2.549-5.393 5.184 0 1.027.395 2.127.889 2.726a.36.36 0 0 1 .083.343c-.091.378-.293 1.189-.332 1.355-.053.218-.173.265-.4.159-1.492-.694-2.424-2.875-2.424-4.627 0-3.769 2.737-7.229 7.892-7.229 4.144 0 7.365 2.953 7.365 6.899 0 4.117-2.595 7.431-6.199 7.431-1.211 0-2.348-.63-2.738-1.373 0 0-.599 2.282-.744 2.84-.282 1.084-1.064 2.456-1.549 3.235C9.584 23.815 10.77 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12"></path></svg>
+        </a>
+    
+    
+</div>
+
+
+<br/>
+            <div class="container">
+            <ul class="list-unstyled legal-links">
+                <li><a href="https://corporate.britannica.com" rel="noopener" target="_blank">About Us & Legal Info</a></li>
+                <li><a href="https://corporate.britannica.com/contact/" target="_blank" rel="noopener nofollow">Contact Us</a></li>
+                <li><a href="https://corporate.britannica.com/privacy-policy" target="_blank" rel="noopener nofollow">Privacy Notice</a></li>
+                <li><a href="https://corporate.britannica.com/termsofuse.html" target="_blank" rel="noopener nofollow">Terms of Use</a></li>
+                </ul>
+
+            <div class="mt-20">&copy;2023 Encyclop&aelig;dia Britannica, Inc.</div>
+        </div>
+
+    </div>
+
+</footer>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script type="text/javascript" id="_informizely_script_tag">
+var IzWidget = IzWidget || {};
+(function (d)
+{ var scriptElement = d.createElement('script'); scriptElement.type = 'text/javascript'; scriptElement.async = true; scriptElement.src = "https://insitez.blob.core.windows.net/site/f780f33e-a610-4ac2-af81-3eb184037547.js"; var node = d.getElementById('_informizely_script_tag'); node.parentNode.insertBefore(scriptElement, node); }
+)(document);
+</script>
+
+<script type="text/javascript">
+        (function(e,t,n,s)
+            {var c,o,i;e.SMCX=e.SMCX||[],t.getElementById(s)||(c=t.getElementsByTagName(n),o=c[c.length-1],i=t.createElement(n),i.type="text/javascript",i.async=!0,i.id=s,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd380NA9UYiEqUYd33SpVRiauJ4ZxrqSo5dnN8yApqOUo.js"].join(""),o.parentNode.insertBefore(i,o))}
+        )(window,document,"script","smcx-sdk");
+    </script>
+
+
+
+
+
+
+
+
+
+<script   class="marketing-page-info" type="application/json">
+{"pageType":"Quiz","templateName":null,"pageNumber":1,"pagesTotal":1,"pageId":null,"pageLength":null,"initialLoad":true,"lastPageOfScroll":true}
+</script>
+
+
+
+
+
+
+
+
+
+<script   class="marketing-content-info" type="application/json">
+[{"id":1012,"name":"SUBSCRIPTION_LINK_DESKTOP","selector":"#fake"}]
+</script>
+
+<script src="https://cdn.britannica.com/mendel-resources/3-82/js/libs/jquery-3.5.0.min.js?v=3.82.6"></script>
+<script type="text/javascript" data-type="Init Mendel Code Splitting">
+              (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: 'https://cdn.britannica.com/mendel-resources/3-82/dist/quiz-page.js?v=3.82.6'
+                });
+              })();
+            </script>
+		
+
+
+
+
+
+
+
+<script   class="analytics-metadata" type="application/json">
+{"leg":"C","userType":"ANONYMOUS","pageType":"Quiz","pageSubtype":null,"articleTemplateType":null,"gisted":false}
+</script>
+
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-6636134-11" async="async"></script>
+    <script type="text/javascript">
+
+        function gaPageLoad(pathname, documentLocation) {
+            pathname = pathname || location.pathname;
+            documentLocation = documentLocation || document.querySelector('html').getAttribute('data-ytrk-page');
+
+            if (documentLocation) {
+                documentLocation = documentLocation.replace(/ /g, '/');
+
+                if (documentLocation.charAt(0) !== '/') {
+                    documentLocation = '/' + documentLocation;
+                }
+
+                window.dataLayer = window.dataLayer || [];
+
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+
+                gtag('js', new Date());
+
+                gtag('set', {
+                    'dimension1': 'ANONYMOUS',
+                    'dimension2': 'C',
+                });
+
+                //console.log( "*****[UA]***** -> ", documentLocation + pathname + decodeURI(location.search) );
+
+                gtag('config', 'UA-6636134-11', {
+                    'page_path': documentLocation + pathname + decodeURI(location.search),
+                    'link_attribution': true,
+                });
+            }
+        }
+
+        gaPageLoad();
+    </script>
+<script type="text/javascript">
+    EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+    </script>
+
+    <script type="text/javascript">
+            ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,EBStat);}
+                     catch(err){}
+                 } );
+            })();
+            </script>
+        <div id="bc-fixed-dialogue"></div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"78e12460b920f28a","token":"5cc7d7124de641b181da990fc8c9a0b6","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
